@@ -1,0 +1,87 @@
+appellate_court_id,appellate_court_name,judicial_environment,supervised_courts_count,courts_with_verified_website,courts_with_laptah,avg_pillars_active_out_of_5,courts_publishing_ikm_ipak,courts_publishing_decisions,courts_publishing_sipp_ecourt,courts_publishing_siwas,courts_publishing_ppid_rentan,avg_public_trust_score,tier_1_exemplary_count,total_perkusi_2026_beban,total_perkusi_2026_pelaksanaan,website_coverage_pct,regional_perkusi_execution_pct
+MCR-TUN-PTTUN-0004,Pengadilan Tinggi Tata Usaha Negara Makassar,Peradilan Tata Usaha Negara (TUN),3,3,2,5.0,3,3,3,3,3,95.0,3,0,0,100.0,
+MCR-PA-PTA-0023,Pengadilan Tinggi Agama Kalimantan Utara,Peradilan Agama (PA),3,3,1,5.0,3,3,3,3,3,90.0,3,0,0,100.0,
+MCR-TUN-PTTUN-0006,Pengadilan Tinggi Tata Usaha Negara Banjarmasin,Peradilan Tata Usaha Negara (TUN),4,4,1,5.0,4,4,4,4,4,88.75,4,0,0,100.0,
+MCR-PU-PT-0007,Pengadilan Tinggi Palembang,Peradilan Umum (PU),11,10,8,4.55,10,10,10,10,10,88.18,10,202,122,90.91,60.4
+MCR-MIL-DILMILTI-0003,Pengadilan Militer Tinggi III Surabaya,Peradilan Militer (MIL),4,4,2,4.5,4,3,4,4,3,86.5,4,0,0,100.0,
+MCR-PA-PTA-0016,Pengadilan Tinggi Agama Bali,Peradilan Agama (PA),7,7,0,5.0,7,7,7,7,7,85.0,7,0,0,100.0,
+MCR-PA-PTA-0025,Pengadilan Tinggi Agama Gorontalo,Peradilan Agama (PA),6,6,0,5.0,6,6,6,6,6,85.0,6,0,0,100.0,
+MCR-PA-PTA-0033,Pengadilan Tinggi Agama Papua Barat,Peradilan Agama (PA),4,4,0,5.0,4,4,4,4,4,85.0,4,0,0,100.0,
+MCR-TUN-PTTUN-0001,Pengadilan Tinggi Tata Usaha Negara Jakarta,Peradilan Tata Usaha Negara (TUN),3,3,0,5.0,3,3,3,3,3,85.0,3,0,0,100.0,
+MCR-TUN-PTTUN-0007,Pengadilan Tinggi Tata Usaha Negara Mataram,Peradilan Tata Usaha Negara (TUN),3,3,0,5.0,3,3,3,3,3,85.0,3,0,0,100.0,
+MCR-PA-PTA-0006,Pengadilan Tinggi Agama Palembang,Peradilan Agama (PA),12,11,3,4.58,11,11,11,11,11,81.67,11,0,0,91.67,
+MCR-PU-PT-0031,Pengadilan Tinggi Ambon,Peradilan Umum (PU),8,7,3,4.38,7,7,7,7,7,81.25,7,92,31,87.5,33.7
+MCR-PU-PT-0015,Pengadilan Tinggi Yogyakarta,Peradilan Umum (PU),5,4,3,4.0,4,4,4,4,4,79.0,4,213,100,80.0,46.95
+MCR-PA-PTA-0005,Pengadilan Tinggi Agama Jambi,Peradilan Agama (PA),9,8,2,4.44,8,8,8,8,8,78.89,8,0,0,88.89,
+MCR-MIL-DILMILTI-0004,Pengadilan Militer Tinggi IV Balikpapan,Peradilan Militer (MIL),3,3,1,4.33,2,3,2,3,3,78.67,2,0,0,100.0,
+MCR-PU-PT-0019,Pengadilan Tinggi Kupang,Peradilan Umum (PU),16,14,3,4.25,14,13,14,14,13,76.94,13,159,48,87.5,30.19
+MCR-PA-PTA-0021,Pengadilan Tinggi Agama Banjarmasin,Peradilan Agama (PA),10,9,1,4.4,9,8,9,9,9,76.8,8,0,0,90.0,
+MA-RI,Mahkamah Agung Republik Indonesia,Peradilan Militer (MIL),1,1,1,3.0,1,1,0,1,0,76.0,0,0,0,100.0,
+MCR-PA-PTA-0030,Pengadilan Tinggi Agama Ambon,Peradilan Agama (PA),6,5,2,4.17,5,5,5,5,5,75.83,5,0,0,83.33,
+MCR-PA-MSA-0001,Mahkamah Syar'iyah Aceh,Peradilan Agama (PA),20,17,4,4.25,17,17,17,17,17,75.25,17,0,0,85.0,
+MCR-PU-PT-0014,Pengadilan Tinggi Semarang,Peradilan Umum (PU),35,29,13,3.89,27,27,28,27,27,74.63,27,699,295,82.86,42.2
+MCR-PA-PTA-0018,Pengadilan Tinggi Agama Kupang,Peradilan Agama (PA),8,8,0,4.12,6,7,8,6,6,74.5,5,0,0,100.0,
+MCR-PA-PTA-0019,Pengadilan Tinggi Agama Pontianak,Peradilan Agama (PA),10,8,4,4.0,8,8,8,8,8,74.0,8,0,0,80.0,
+MCR-PA-PTA-0004,Pengadilan Tinggi Agama Kepulauan Riau,Peradilan Agama (PA),6,5,1,4.17,5,5,5,5,5,73.33,5,0,0,83.33,
+MCR-PU-PT-0020,Pengadilan Tinggi Pontianak,Peradilan Umum (PU),10,8,2,4.0,8,8,8,8,8,73.0,8,115,52,80.0,45.22
+MA-RI,Mahkamah Agung Republik Indonesia,Peradilan Agama (PA),34,29,4,4.06,28,26,28,28,28,71.5,27,0,0,85.29,
+MCR-TUN-PTTUN-0005,Pengadilan Tinggi Tata Usaha Negara Palembang,Peradilan Tata Usaha Negara (TUN),5,4,1,4.0,4,4,4,4,4,71.0,4,0,0,80.0,
+MCR-PA-PTA-0024,Pengadilan Tinggi Agama Manado,Peradilan Agama (PA),8,7,2,3.88,6,6,7,6,6,70.88,6,0,0,87.5,
+MCR-PU-PT-0033,Pengadilan Tinggi Jayapura,Peradilan Umum (PU),7,5,3,3.57,5,5,5,5,5,70.0,5,126,35,71.43,27.78
+MCR-PU-PT-0034,Pengadilan Tinggi Papua Barat,Peradilan Umum (PU),4,3,1,3.75,3,3,3,3,3,70.0,3,45,22,75.0,48.89
+MCR-PU-PT-0030,Pengadilan Tinggi Kendari,Peradilan Umum (PU),9,7,1,3.78,7,7,7,7,6,68.67,6,135,59,77.78,43.7
+MCR-MIL-DILMILTI-0001,Pengadilan Militer Tinggi I Medan,Peradilan Militer (MIL),5,4,1,3.8,3,4,4,4,4,68.6,3,0,0,80.0,
+MCR-PU-PT-0003,Pengadilan Tinggi Padang,Peradilan Umum (PU),17,13,2,3.82,13,13,13,13,13,68.53,13,240,113,76.47,47.08
+MA-RI,Mahkamah Agung Republik Indonesia,Peradilan Umum (PU),34,25,15,3.62,25,24,25,25,24,68.12,24,0,0,73.53,
+MCR-PA-PTA-0011,Pengadilan Tinggi Agama Banten,Peradilan Agama (PA),5,4,0,4.0,4,4,4,4,4,68.0,4,0,0,80.0,
+MCR-PA-PTA-0014,Pengadilan Tinggi Agama Yogyakarta,Peradilan Agama (PA),5,4,0,4.0,4,4,4,4,4,68.0,4,0,0,80.0,
+MCR-PA-PTA-0008,Pengadilan Tinggi Agama Bengkulu,Peradilan Agama (PA),9,8,0,3.89,7,6,8,7,7,67.78,6,0,0,88.89,
+MCR-PA-PTA-0013,Pengadilan Tinggi Agama Semarang,Peradilan Agama (PA),34,26,6,3.76,24,26,26,26,26,66.94,24,0,0,76.47,
+MCR-PU-PT-0010,Pengadilan Tinggi Tanjungkarang,Peradilan Umum (PU),11,9,3,3.36,6,7,9,9,6,66.73,6,157,80,81.82,50.96
+MCR-PU-PT-0032,Pengadilan Tinggi Maluku Utara,Peradilan Umum (PU),7,5,2,3.57,5,5,5,5,5,66.43,5,61,18,71.43,29.51
+MCR-PU-PT-0023,Pengadilan Tinggi Samarinda,Peradilan Umum (PU),9,7,2,3.44,6,6,7,6,6,66.33,6,213,65,77.78,30.52
+MCR-PU-PT-0029,Pengadilan Tinggi Sulawesi Barat,Peradilan Umum (PU),4,3,0,3.75,3,3,3,3,3,66.25,3,24,4,75.0,16.67
+MCR-PU-PT-0017,Pengadilan Tinggi Denpasar,Peradilan Umum (PU),9,7,2,3.44,6,6,7,7,5,65.22,5,336,119,77.78,35.42
+MCR-TUN-PTTUN-0008,Pengadilan Tinggi Tata Usaha Negara Manado,Peradilan Tata Usaha Negara (TUN),4,3,1,3.5,2,3,3,3,3,64.5,2,0,0,75.0,
+MCR-PU-PT-0006,Pengadilan Tinggi Jambi,Peradilan Umum (PU),10,7,2,3.4,7,7,7,7,6,64.3,6,110,49,70.0,44.55
+MCR-PU-PT-0016,Pengadilan Tinggi Surabaya,Peradilan Umum (PU),35,25,9,3.23,22,22,24,23,22,63.31,21,951,374,71.43,39.33
+MCR-PU-PT-0024,Pengadilan Tinggi Kalimantan Utara,Peradilan Umum (PU),4,3,0,3.5,3,3,3,3,2,63.25,2,11,3,75.0,27.27
+MCR-PA-PTA-0009,Pengadilan Tinggi Agama Bandar Lampung,Peradilan Agama (PA),13,11,1,3.46,9,9,9,9,9,62.31,9,0,0,84.62,
+MCR-PU-PT-0001,Pengadilan Tinggi Banda Aceh,Peradilan Umum (PU),23,16,4,3.26,15,15,15,15,15,61.74,15,114,54,69.57,47.37
+MCR-PA-PTA-0032,Pengadilan Tinggi Agama Jayapura,Peradilan Agama (PA),3,2,1,3.33,2,2,2,2,2,61.67,2,0,0,66.67,
+MCR-MIL-DILMILTI-0002,Pengadilan Militer Tinggi II Jakarta,Peradilan Militer (MIL),4,3,1,3.25,2,3,3,3,2,61.5,2,0,0,75.0,
+MA-RI,Mahkamah Agung Republik Indonesia,Peradilan Tata Usaha Negara (TUN),10,7,1,3.5,7,7,7,7,7,61.0,7,0,0,70.0,
+MCR-PU-PT-0025,Pengadilan Tinggi Manado,Peradilan Umum (PU),9,6,1,3.33,6,6,6,6,6,60.56,6,159,68,66.67,42.77
+MCR-PU-PT-0002,Pengadilan Tinggi Medan,Peradilan Umum (PU),20,14,5,3.0,12,11,13,12,12,60.25,11,741,287,70.0,38.73
+MCR-PU-PT-0009,Pengadilan Tinggi Bengkulu,Peradilan Umum (PU),9,5,5,2.78,5,5,5,5,5,60.0,5,30,8,55.56,26.67
+MCR-PA-PTA-0002,Pengadilan Tinggi Agama Padang,Peradilan Agama (PA),18,12,3,3.33,12,12,12,12,12,59.17,12,0,0,66.67,
+MCR-PU-PT-0012,Pengadilan Tinggi Banten,Peradilan Umum (PU),5,3,2,3.0,3,3,3,3,3,59.0,3,564,290,60.0,51.42
+MCR-MIL-DILMILTI-0005,Pengadilan Militer Tinggi V Makassar,Peradilan Militer (MIL),6,4,2,3.0,4,3,4,4,3,57.67,3,0,0,66.67,
+MCR-PA-PTA-0028,Pengadilan Tinggi Agama Sulawesi Barat,Peradilan Agama (PA),5,3,2,3.0,3,3,3,3,3,57.0,3,0,0,60.0,
+MCR-PA-PTA-0012,Pengadilan Tinggi Agama Bandung,Peradilan Agama (PA),26,17,2,3.27,17,17,17,17,17,56.73,17,0,0,65.38,
+MCR-PU-PT-0027,Pengadilan Tinggi Palu,Peradilan Umum (PU),8,5,1,3.0,5,4,5,5,5,56.0,4,119,36,62.5,30.25
+MCR-PA-PTA-0001,Pengadilan Tinggi Agama Medan,Peradilan Agama (PA),22,14,2,3.18,14,14,14,14,14,55.45,14,0,0,63.64,
+MCR-PA-PTA-0020,Pengadilan Tinggi Agama Palangkaraya,Peradilan Agama (PA),11,7,1,3.18,7,7,7,7,7,55.45,7,0,0,63.64,
+MCR-PA-PTA-0029,Pengadilan Tinggi Agama Kendari,Peradilan Agama (PA),5,3,1,3.0,3,3,3,3,3,54.0,3,0,0,60.0,
+MCR-PU-PT-0018,Pengadilan Tinggi Mataram,Peradilan Umum (PU),7,4,1,2.86,4,4,4,4,4,53.57,4,221,78,57.14,35.29
+MCR-PU-PT-0026,Pengadilan Tinggi Gorontalo,Peradilan Umum (PU),5,3,0,3.0,3,3,3,3,3,53.0,3,51,29,60.0,56.86
+MCR-PA-PTA-0027,Pengadilan Tinggi Agama Makassar,Peradilan Agama (PA),22,13,2,2.95,13,13,13,13,13,51.59,13,0,0,59.09,
+MCR-PU-PT-0005,Pengadilan Tinggi Kepulauan Riau,Peradilan Umum (PU),4,2,1,2.5,2,2,2,2,2,51.25,2,198,77,50.0,38.89
+MCR-TUN-PTTUN-0002,Pengadilan Tinggi Tata Usaha Negara Medan,Peradilan Tata Usaha Negara (TUN),5,3,0,3.0,3,3,3,3,3,51.0,3,0,0,60.0,
+MCR-PU-PT-0028,Pengadilan Tinggi Makassar,Peradilan Umum (PU),23,14,0,2.61,12,12,12,12,12,50.43,12,461,180,60.87,39.05
+MCR-TUN-PTTUN-0003,Pengadilan Tinggi Tata Usaha Negara Surabaya,Peradilan Tata Usaha Negara (TUN),3,2,1,2.33,1,1,2,1,2,49.67,1,0,0,66.67,
+MCR-PA-PTA-0015,Pengadilan Tinggi Agama Surabaya,Peradilan Agama (PA),35,21,5,2.71,19,19,19,19,19,49.14,19,0,0,60.0,
+MCR-PU-PT-0022,Pengadilan Tinggi Banjarmasin,Peradilan Umum (PU),13,13,0,1.92,3,3,13,3,3,48.08,3,94,39,100.0,41.49
+MCR-PU-PT-0021,Pengadilan Tinggi Palangkaraya,Peradilan Umum (PU),12,6,0,2.5,6,6,6,6,6,46.67,6,106,51,50.0,48.11
+MCR-PA-PTA-0022,Pengadilan Tinggi Agama Samarinda,Peradilan Agama (PA),8,5,1,2.5,4,4,4,4,4,46.25,4,0,0,62.5,
+MCR-PA-PTA-0007,Pengadilan Tinggi Agama Bangka Belitung,Peradilan Agama (PA),4,3,0,2.5,2,2,2,2,2,46.25,2,0,0,75.0,
+MCR-PU-PT-0004,Pengadilan Tinggi Riau,Peradilan Umum (PU),11,5,0,2.27,5,5,5,5,5,44.09,5,271,82,45.45,30.26
+MCR-PU-PT-0013,Pengadilan Tinggi Bandung,Peradilan Umum (PU),23,10,2,2.17,10,10,10,10,10,43.91,10,989,356,43.48,36.0
+MCR-PU-PT-0008,Pengadilan Tinggi Bangka Belitung,Peradilan Umum (PU),7,3,1,2.14,3,3,3,3,3,41.43,3,18,8,42.86,44.44
+MCR-PU-PT-0011,Pengadilan Tinggi Jakarta,Peradilan Umum (PU),5,2,0,2.0,2,2,2,2,2,40.0,2,1104,353,40.0,31.97
+MCR-MIL-DILMILTAMA-0001,Pengadilan Militer Utama,Peradilan Militer (MIL),5,2,2,1.8,2,2,2,2,1,37.6,2,0,0,40.0,
+MCR-PA-PTA-0026,Pengadilan Tinggi Agama Palu,Peradilan Agama (PA),10,5,1,2.0,4,4,4,4,4,37.0,4,0,0,50.0,
+MCR-PA-PTA-0010,Pengadilan Tinggi Agama Jakarta,Peradilan Agama (PA),5,2,0,2.0,2,2,2,2,2,34.0,2,0,0,40.0,
+MCR-PA-PTA-0031,Pengadilan Tinggi Agama Maluku Utara,Peradilan Agama (PA),6,2,0,1.67,2,2,2,2,2,28.33,2,0,0,33.33,
+MCR-PA-PTA-0003,Pengadilan Tinggi Agama Pekanbaru,Peradilan Agama (PA),11,5,0,1.36,3,3,3,3,3,25.91,3,0,0,45.45,
+MCR-PA-PTA-0017,Pengadilan Tinggi Agama Mataram,Peradilan Agama (PA),9,2,0,1.11,2,2,2,2,2,18.89,2,0,0,22.22,
