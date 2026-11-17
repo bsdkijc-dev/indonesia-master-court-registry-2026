@@ -1,0 +1,18 @@
+website_id,court_id,website_type,website_url,domain_owner,access_status,last_checked,verification_source
+WEB-MCR-MIL-DILMILTAMA-0001,MCR-MIL-DILMILTAMA-0001,OFFICIAL_MAIN,https://www.miltama.dilmiltama.go.id/,Pengadilan Militer Utama,ACTIVE,2026-11-12,SRC-001; SRC-010; SRC-014
+WEB-MCR-MIL-DILMILTI-0003,MCR-MIL-DILMILTI-0003,OFFICIAL_MAIN,https://dilmilti3-surabaya.go.id/,Pengadilan Militer Tinggi III Surabaya,ACTIVE,2026-11-12,SRC-001; SRC-010; SRC-015
+WEB-MCR-MIL-DILMIL-0004,MCR-MIL-DILMIL-0004,OFFICIAL_MAIN,https://dilmil-padang.go.id/,Pengadilan Militer I-04 Padang,ACTIVE,2026-11-12,SRC-001; SRC-011
+WEB-MCR-MIL-DILMIL-0011,MCR-MIL-DILMIL-0011,OFFICIAL_MAIN,https://dilmil-madiun.go.id/,Pengadilan Militer III-11 Madiun,ACTIVE,2026-11-12,SRC-001; SRC-011
+WEB-MCR-MIL-DILMIL-0019,MCR-MIL-DILMIL-0019,OFFICIAL_MAIN,https://www.dilmil-manado.go.id/,Pengadilan Militer V-19 Manado,ACTIVE,2026-11-12,SRC-001; SRC-011
+WEB-MCR-MIL-DILMIL-0020,MCR-MIL-DILMIL-0020,OFFICIAL_MAIN,https://dilmil-ambon.go.id/,Pengadilan Militer V-20 Ambon,ACTIVE,2026-11-12,SRC-001; SRC-011
+WEB-MCR-PU-PN-0001,MCR-PU-PN-0001,OFFICIAL_MAIN,https://pn-bandaaceh.go.id/,Pengadilan Negeri Banda Aceh,ACTIVE,2026-11-12,SRC-007; SRC-016; SRC-018
+WEB-MCR-PA-PA-0018,MCR-PA-PA-0018,OFFICIAL_MAIN,https://pa-cibadak.go.id/,Pengadilan Agama Cibadak,ACTIVE,2026-11-12,SRC-002; SRC-020
+WEB-MCR-PA-PA-0027,MCR-PA-PA-0027,OFFICIAL_MAIN,https://pa-sangatta.go.id/,Pengadilan Agama Sangatta,ACTIVE,2026-11-12,SRC-002 (PA Sangatta SK 583/2026); SRC-020
+WEB-MCR-PA-PA-0029,MCR-PA-PA-0029,OFFICIAL_MAIN,https://pa-pamekasan.go.id/,Pengadilan Agama Pamekasan,ACTIVE,2026-11-12,SRC-017; SRC-020
+WEB-MCR-PA-MS-0002,MCR-PA-MS-0002,OFFICIAL_MAIN,https://ms-langsa.go.id/,Mahkamah Syar'iyah Langsa,ACTIVE,2026-11-12,SRC-003; SRC-020
+WEB-MCR-PA-PA-0310,MCR-PA-PA-0310,OFFICIAL_MAIN,https://pa-majene.go.id/,Pengadilan Agama Majene,ACTIVE,2026-11-12,SRC-020; SRC-003
+WEB-MCR-PA-PA-0316,MCR-PA-PA-0316,OFFICIAL_MAIN,https://pa-jakartapusat.go.id/,Pengadilan Agama Jakarta Pusat,ACTIVE,2026-11-12,SRC-022
+WEB-MCR-PA-PA-0322,MCR-PA-PA-0322,OFFICIAL_MAIN,https://www.pa-sungailiat.go.id/,Pengadilan Agama Sungailiat,ACTIVE,2026-11-12,SRC-022
+WEB-MCR-PA-PA-0324,MCR-PA-PA-0324,OFFICIAL_MAIN,https://pa-manado.go.id/,Pengadilan Agama Manado,ACTIVE,2026-11-12,SRC-022
+WEB-MCR-PA-PA-0330,MCR-PA-PA-0330,OFFICIAL_MAIN,https://www.pa-kupang.go.id/,Pengadilan Agama Kupang,ACTIVE,2026-11-12,SRC-022
+WEB-MCR-PA-PA-0346,MCR-PA-PA-0346,OFFICIAL_MAIN,https://www.pa-tulungagung.go.id/,Pengadilan Agama Tulungagung,ACTIVE,2026-11-12,SRC-021

@@ -1,0 +1,41 @@
+name: Validate & Sync Indonesia Master Court Registry 2026 to Kaggle
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "data/**"
+      - "docs/**"
+      - "dataset-metadata.json"
+  workflow_dispatch:
+
+jobs:
+  validate-and-sync-kaggle:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install pandas kaggle
+      - name: Validate v0.9 Registry Integrity
+        run: |
+          python - << 'EOF'
+          import pandas as pd
+          df = pd.read_csv("data/master_court_registry.csv", dtype=str)
+          pk = pd.read_csv("data/tables/perkusi_execution_stats_2026.csv", dtype=str)
+          assert len(df) == 906
+          assert len(pk) == 382
+          assert df["court_id"].duplicated().sum() == 0
+          print("Validated 906 courts & 382 PERKUSI rows.")
+          EOF
+      - name: Push new version to Kaggle
+        env:
+          KAGGLE_USERNAME: ${{ secrets.KAGGLE_USERNAME }}
+          KAGGLE_KEY: ${{ secrets.KAGGLE_KEY }}
+        run: |
+          kaggle datasets version -p . -m "CI Sync: Master Court Registry 2026 (${{ github.sha }})" -r zip

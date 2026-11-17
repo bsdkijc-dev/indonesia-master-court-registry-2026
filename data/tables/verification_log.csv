@@ -1,0 +1,5 @@
+verification_id,entity_id,field_name,previous_value,verified_value,verification_method,source_reference,verification_date,reviewer,verification_status
+VER-001,MCR-MIL-DILMIL-0004,official_name_verified,Pengadilan Militer I-03 Padang,Pengadilan Militer I-04 Padang,DECREE_CHECK,SRC-001; SRC-011,2026-11-12,IJC Research Team,VERIFIED
+VER-002,MCR-PU-PN-0136,official_name_verified,PENGADILAN NEGERI PASARWAPO,PENGADILAN NEGERI PASARWAJO,PERKUSI_EXCEL_EXPORT_CHECK,SRC-023,2026-11-17,IJC Research Team,VERIFIED
+VER-003,MCR-PU-PN-0178,official_name_verified,PENGADILAN NEGERI TAUNA,PENGADILAN NEGERI TAHUNA,PERKUSI_EXCEL_EXPORT_CHECK,SRC-023,2026-11-17,IJC Research Team,VERIFIED
+VER-004,MCR-PU-PN-0102,official_name_verified,PENGADILAN NEGERI TUBEH,PENGADILAN NEGERI TUBEI,PERKUSI_EXCEL_EXPORT_CHECK,SRC-023,2026-11-17,IJC Research Team,VERIFIED
