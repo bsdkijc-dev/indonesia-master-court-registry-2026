@@ -1,0 +1,652 @@
+court_id,official_name_verified,website_url,reachable,has_1_IKM_IPAK_SURVEY,has_2_DECISION_PUBLICATION,has_3_SIPP_ECOURT_METRICS,has_4_SIWAS_COMPLAINTS,has_5_PPID_VULNERABLE_ACCESS,pillars_detected_count,extracted_metrics_count,audit_date,has_1_ikm_ipak,has_2_putusan,has_3_sipp_ecourt,has_4_siwas,has_5_ppid_rentan,judicial_environment,province_name,court_level
+MCR-PA-PA-0322,Pengadilan Agama Sungailiat,https://www.pa-sungailiat.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Agama (PA),Kepulauan Bangka Belitung,First Instance
+MCR-MIL-DILMIL-0019,Pengadilan Militer V-19 Manado,https://www.dilmil-manado.go.id/,REACHABLE,,,,,,4,14,2026-11-17,1,0,1,1,1,Peradilan Militer (MIL),Sulawesi Utara,First Instance
+MCR-TUN-PTTUN-0001,Pengadilan Tinggi Tata Usaha Negara Jakarta,https://pttun-jakarta.go.id/,REACHABLE,,,,,,5,12,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),DKI Jakarta,Appellate
+MCR-MIL-DILMIL-0002,Pengadilan Militer I-02 Medan,https://dilmil-medan.go.id/,REACHABLE,,,,,,4,11,2026-11-17,0,1,1,1,1,Peradilan Militer (MIL),Sumatera Utara,First Instance
+MCR-MIL-DILMIL-0016,Pengadilan Militer IV-16 Balikpapan,https://dilmil-balikpapan.go.id/,REACHABLE,,,,,,3,1,2026-11-17,0,1,0,1,1,Peradilan Militer (MIL),Kalimantan Timur,First Instance
+MCR-MIL-DILMIL-0008,Pengadilan Militer II-08 Semarang,https://dilmil-semarang.go.id/,REACHABLE,,,,,,4,9,2026-11-17,0,1,1,1,1,Peradilan Militer (MIL),Jawa Tengah,First Instance
+MCR-MIL-DILMIL-0020,Pengadilan Militer V-20 Ambon,https://dilmil-ambon.go.id/,REACHABLE,,,,,,5,15,2026-11-17,1,1,1,1,1,Peradilan Militer (MIL),Maluku,First Instance
+MCR-MIL-DILMIL-0013,Pengadilan Militer III-13 Kupang,https://dilmil-kupang.go.id/,REACHABLE,,,,,,5,14,2026-11-17,1,1,1,1,1,Peradilan Militer (MIL),Nusa Tenggara Timur,First Instance
+MCR-TUN-PTUN-0004,Pengadilan Tata Usaha Negara Banda Aceh,https://ptun-bandaaceh.go.id/,REACHABLE,,,,,,5,42,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Aceh,First Instance
+MCR-TUN-PTTUN-0007,Pengadilan Tinggi Tata Usaha Negara Mataram,https://pttun-mataram.go.id/id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Nusa Tenggara Barat,Appellate
+MCR-MIL-DILMIL-0022,Pengadilan Militer V-22 Jayapura,https://dilmil-jayapura.go.id/,REACHABLE,,,,,,4,20,2026-11-17,1,1,1,1,0,Peradilan Militer (MIL),Papua,First Instance
+MCR-MIL-DILMIL-0012,Pengadilan Militer III-12 Denpasar,https://dilmil-denpasar.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Militer (MIL),Bali,First Instance
+MCR-TUN-PTUN-0010,Pengadilan Tata Usaha Negara Semarang,https://ptun-semarang.go.id/,REACHABLE,,,,,,2,5,2026-11-17,0,0,1,0,1,Peradilan Tata Usaha Negara (TUN),Jawa Tengah,First Instance
+MCR-TUN-PTUN-0005,Pengadilan Tata Usaha Negara Medan,https://ptun-medan.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Sumatera Utara,First Instance
+MCR-MIL-DILMIL-0011,Pengadilan Militer III-11 Madiun,https://dilmil-madiun.go.id/,REACHABLE,,,,,,4,13,2026-11-17,1,1,1,1,0,Peradilan Militer (MIL),Jawa Timur,First Instance
+MCR-TUN-PTTUN-0006,Pengadilan Tinggi Tata Usaha Negara Banjarmasin,https://pttun-banjarmasin.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Kalimantan Selatan,Appellate
+MCR-TUN-PTUN-0007,Pengadilan Tata Usaha Negara Padang,https://ptun-padang.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Sumatera Barat,First Instance
+MCR-MIL-DILMILTAMA-0001,Pengadilan Militer Utama,https://www.miltama.dilmiltama.go.id/,REACHABLE,,,,,,3,8,2026-11-17,1,1,0,1,0,Peradilan Militer (MIL),DKI Jakarta,Appellate / Highest Military
+MCR-TUN-PTUN-0016,Pengadilan Tata Usaha Negara Palembang,https://ptun-palembang.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Sumatera Selatan,First Instance
+MCR-TUN-PTUN-0003,Pengadilan Tata Usaha Negara Bandung,https://ptun-bandung.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Jawa Barat,First Instance
+MCR-TUN-PTTUN-0008,Pengadilan Tinggi Tata Usaha Negara Manado,https://pttun-manado.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Sulawesi Utara,Appellate
+MCR-MIL-DILMIL-0010,Pengadilan Militer III-10 Surabaya,https://dilmil-surabaya.go.id/,REACHABLE,,,,,,4,20,2026-11-17,1,0,1,1,1,Peradilan Militer (MIL),Jawa Timur,First Instance
+MCR-MIL-DILMIL-0015,Pengadilan Militer IV-15 Banjarmasin,https://dilmil-banjarmasin.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Militer (MIL),Kalimantan Selatan,First Instance
+MCR-TUN-PTUN-0025,Pengadilan Tata Usaha Negara Denpasar,https://ptun-denpasar.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Bali,First Instance
+MCR-TUN-PTUN-0026,Pengadilan Tata Usaha Negara Kupang,https://www.ptun-kupang.go.id/,REACHABLE,,,,,,5,16,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Nusa Tenggara Timur,First Instance
+MCR-TUN-PTUN-0024,Pengadilan Tata Usaha Negara Mataram,https://ptun-mataram.go.id/,REACHABLE,,,,,,5,41,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Nusa Tenggara Barat,First Instance
+MCR-MIL-DILMIL-0005,Pengadilan Militer I-05 Palembang,https://dilmil-palembang.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Militer (MIL),Sumatera Selatan,First Instance
+MCR-TUN-PTUN-0014,Pengadilan Tata Usaha Negara Palu,https://www.ptun-palu.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Sulawesi Tengah,First Instance
+MCR-TUN-PTUN-0017,Pengadilan Tata Usaha Negara Jambi,https://ptun-jambi.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Jambi,First Instance
+MCR-TUN-PTUN-0020,Pengadilan Tata Usaha Negara Banjarmasin,https://ptun-banjarmasin.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Kalimantan Selatan,First Instance
+MCR-PU-PT-0002,Pengadilan Tinggi Medan,https://pt-medan.go.id/,REACHABLE,,,,,,5,10,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,Appellate
+MCR-TUN-PTTUN-0004,Pengadilan Tinggi Tata Usaha Negara Makassar,https://pttun-makassar.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Sulawesi Selatan,Appellate
+MCR-MIL-DILMIL-0009,Pengadilan Militer II-09 Yogyakarta,https://dilmil-yogyakarta.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Militer (MIL),DI Yogyakarta,First Instance
+MCR-MIL-DILMIL-0014,Pengadilan Militer IV-14 Pontianak,https://home.dilmil-pontianak.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Militer (MIL),Kalimantan Barat,First Instance
+MCR-PU-PT-0010,Pengadilan Tinggi Tanjungkarang,https://pt-tanjungkarang.go.id/,REACHABLE,,,,,,5,14,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Lampung,Appellate
+MCR-PU-PT-0003,Pengadilan Tinggi Padang,https://pt-padang.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,Appellate
+MCR-TUN-PTUN-0022,Pengadilan Tata Usaha Negara Pontianak,https://ptun-pontianak.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Kalimantan Barat,First Instance
+MCR-MIL-DILMILTI-0002,Pengadilan Militer Tinggi II Jakarta,https://dilmilti-jakarta.go.id/,REACHABLE,,,,,,4,11,2026-11-17,1,1,1,1,0,Peradilan Militer (MIL),DKI Jakarta,Appellate
+MCR-TUN-PTUN-0002,Pengadilan Tata Usaha Negara Serang,https://ptun-serang.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Banten,First Instance
+MCR-MIL-DILMIL-0001,Pengadilan Militer I-01 Banda Aceh,https://dilmil-aceh.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Militer (MIL),Aceh,First Instance
+MCR-PU-PT-0017,Pengadilan Tinggi Denpasar,https://pt-denpasar.go.id/,REACHABLE,,,,,,3,4,2026-11-17,1,0,1,1,0,Peradilan Umum (PU),Bali,Appellate
+MCR-PU-PT-0012,Pengadilan Tinggi Banten,https://pt-banten.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Banten,Appellate
+MCR-TUN-PTUN-0001,Pengadilan Tata Usaha Negara Jakarta,https://ptun-jakarta.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),DKI Jakarta,First Instance
+MCR-PU-PT-0007,Pengadilan Tinggi Palembang,https://pt-palembang.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Selatan,Appellate
+MCR-PU-PT-0018,Pengadilan Tinggi Mataram,https://pt-mataram.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Barat,Appellate
+MCR-TUN-PTTUN-0005,Pengadilan Tinggi Tata Usaha Negara Palembang,https://pttun-palembang.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Sumatera Selatan,Appellate
+MCR-TUN-PTUN-0018,Pengadilan Tata Usaha Negara Bengkulu,https://ptun-bengkulu.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Bengkulu,First Instance
+MCR-TUN-PTUN-0008,Pengadilan Tata Usaha Negara Bandar Lampung,https://ptun-bandarlampung.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Lampung,First Instance
+MCR-PU-PT-0004,Pengadilan Tinggi Riau,https://pt-riau.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Riau,Appellate
+MCR-PU-PT-0020,Pengadilan Tinggi Pontianak,https://pt-pontianak.go.id/,REACHABLE,,,,,,5,15,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Barat,Appellate
+MCR-PU-PT-0014,Pengadilan Tinggi Semarang,https://pt-semarang.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,Appellate
+MCR-MIL-DILMILTI-0003,Pengadilan Militer Tinggi III Surabaya,https://dilmilti3-surabaya.go.id/,REACHABLE,,,,,,5,11,2026-11-17,1,1,1,1,1,Peradilan Militer (MIL),Jawa Timur,Appellate
+MCR-PU-PT-0013,Pengadilan Tinggi Bandung,https://pt-bandung.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Barat,Appellate
+MCR-PU-PT-0033,Pengadilan Tinggi Jayapura,https://pt-jayapura.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Papua,Appellate
+MCR-PU-PT-0019,Pengadilan Tinggi Kupang,https://pt-kupang.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,Appellate
+MCR-PU-PT-0021,Pengadilan Tinggi Palangkaraya,https://pt-palangkaraya.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Tengah,Appellate
+MCR-PU-PN-0004,Pengadilan Negeri Bireuen,https://pn-bireuen.go.id/newweb/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PT-0025,Pengadilan Tinggi Manado,https://pt-manado.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Utara,Appellate
+MCR-PU-PT-0031,Pengadilan Tinggi Ambon,https://pt-ambon.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku,Appellate
+MCR-PU-PT-0015,Pengadilan Tinggi Yogyakarta,https://www.pt-yogyakarta.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),DI Yogyakarta,Appellate
+MCR-TUN-PTUN-0011,Pengadilan Tata Usaha Negara Yogyakarta,https://ptun-yogyakarta.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),DI Yogyakarta,First Instance
+MCR-TUN-PTUN-0013,Pengadilan Tata Usaha Negara Makassar,https://ptun-makassar.go.id/,REACHABLE,,,,,,5,38,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Sulawesi Selatan,First Instance
+MCR-TUN-PTUN-0021,Pengadilan Tata Usaha Negara Samarinda,https://ptun-samarinda.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Kalimantan Timur,First Instance
+MCR-TUN-PTUN-0030,Pengadilan Tata Usaha Negara Gorontalo,https://ptun-gorontalo.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Gorontalo,First Instance
+MCR-PA-PA-0316,Pengadilan Agama Jakarta Pusat,https://pa-jakartapusat.go.id/,REACHABLE,,,,,,5,35,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),DKI Jakarta,First Instance
+MCR-PU-PN-0016,Pengadilan Negeri Tapaktuan,https://pn-tapaktuan.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PT-0028,Pengadilan Tinggi Makassar,https://pt-makassar.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,Appellate
+MCR-PU-PT-0032,Pengadilan Tinggi Maluku Utara,https://pt-malukuutara.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku Utara,Appellate
+MCR-MIL-DILMIL-0006,Pengadilan Militer II-06 Jakarta,https://dilmil-jakarta.go.id/,REACHABLE,,,,,,4,17,2026-11-17,1,1,1,1,0,Peradilan Militer (MIL),DKI Jakarta,First Instance
+MCR-PU-PN-0009,Pengadilan Negeri Idi,https://pn-idi.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PT-0034,Pengadilan Tinggi Papua Barat,https://pt-papuabarat.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Papua Barat,Appellate
+MCR-PU-PT-0027,Pengadilan Tinggi Palu,https://pt-palu.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Tengah,Appellate
+MCR-PU-PT-0016,Pengadilan Tinggi Surabaya,https://www.pt-surabaya.go.id/,REACHABLE,,,,,,5,15,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,Appellate
+MCR-PU-PN-0022,Pengadilan Negeri Suka Makmue,https://pn-sukamakmue.go.id/,REACHABLE,,,,,,5,42,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PN-0002,Pengadilan Negeri Sabang,https://pn-sabang.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PN-0012,Pengadilan Negeri Kutacane,https://pn-kutacane.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PT-0022,Pengadilan Tinggi Banjarmasin,https://pt-banjarmasin.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Selatan,Appellate
+MCR-TUN-PTUN-0015,Pengadilan Tata Usaha Negara Kendari,https://ptun-kendari.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Sulawesi Tenggara,First Instance
+MCR-PU-PN-0001,Pengadilan Negeri Banda Aceh,https://pn-bandaaceh.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PN-0015,Pengadilan Negeri Sinabang,https://pn-sinabang.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Umum (PU),Aceh,First Instance
+MCR-TUN-PTUN-0023,Pengadilan Tata Usaha Negara Palangkaraya,https://ptun-palangkaraya.go.id/,REACHABLE,,,,,,5,41,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Kalimantan Tengah,First Instance
+MCR-PU-PN-0036,Pengadilan Negeri Simalungun,https://pn-simalungun.go.id/,REACHABLE,,,,,,5,38,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PU-PN-0011,Pengadilan Negeri Blangkejeren,https://pn-blangkejeren.go.id/web/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PN-0020,Pengadilan Negeri Blangpidie,https://pn-blangpidie.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PN-0008,Pengadilan Negeri Langsa,https://pn.pn-langsa.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PN-0361,Pengadilan Negeri Wamena,https://pn-wamena.go.id/new/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Papua,First Instance
+MCR-PU-PN-0018,Pengadilan Negeri Jantho,https://pn-jantho.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PN-0359,Pengadilan Negeri Bobong,https://pn-bobong.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku Utara,First Instance
+MCR-PU-PN-0035,Pengadilan Negeri Stabat,https://pn-stabat.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PU-PN-0358,Pengadilan Negeri Sanana,https://pn-sanana.go.id/,REACHABLE,,,,,,5,36,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku Utara,First Instance
+MCR-PU-PN-0026,Pengadilan Negeri Sidikalang,https://pn-sidikalang.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PU-PN-0364,Pengadilan Negeri Nabire,https://pn-nabire.go.id/,REACHABLE,,,,,,5,35,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Papua,First Instance
+MCR-PU-PN-0005,Pengadilan Negeri Lhoksukon,https://pn-lhoksukon.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PN-0038,Pengadilan Negeri Lubuk Pakam,https://pn-lubukpakam.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PU-PN-0360,Pengadilan Negeri Jayapura,https://pn-jayapura.go.id/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Papua,First Instance
+MCR-PU-PN-0033,Pengadilan Negeri Padangsidimpuan,https://pn-padangsidimpuan.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PU-PN-0027,Pengadilan Negeri Kabanjahe,https://pn-kabanjahe.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PU-PN-0371,Pengadilan Negeri Tarakan,http://pn-tarakan.go.id/id/index.php?lang=en,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Utara,First Instance
+MCR-PU-PN-0381,Pengadilan Negeri Fakfak,https://pn-fakfak.go.id/home/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Papua Barat,First Instance
+MCR-PU-PN-0029,Pengadilan Negeri Tebing Tinggi,https://pn-tebingtinggi.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PU-PN-0040,Pengadilan Negeri Balige,https://pn-balige.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PA-PTA-0005,Pengadilan Tinggi Agama Jambi,https://pta-jambi.go.id/,REACHABLE,,,,,,5,7,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jambi,Appellate
+MCR-PU-PN-0380,Pengadilan Negeri Sorong,https://pn-sorong.go.id/,REACHABLE,,,,,,5,35,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Papua Barat,First Instance
+MCR-PU-PN-0357,Pengadilan Negeri Soasio,http://pn-soasio.go.id/index.php,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku Utara,First Instance
+MCR-PU-PT-0009,Pengadilan Tinggi Bengkulu,https://www.pt-bengkulu.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Bengkulu,Appellate
+MCR-PA-PTA-0008,Pengadilan Tinggi Agama Bengkulu,https://pta-bengkulu.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bengkulu,Appellate
+MCR-PU-PN-0372,Pengadilan Negeri Nunukan,https://pn-nunukan.go.id/,REACHABLE,,,,,,4,12,2026-11-17,1,1,1,1,0,Peradilan Umum (PU),Kalimantan Utara,First Instance
+MCR-PU-PT-0026,Pengadilan Tinggi Gorontalo,https://pt-gorontalo.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Gorontalo,Appellate
+MCR-PU-PN-0376,Pengadilan Negeri Mamuju,https://pn-mamuju.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Barat,First Instance
+MCR-TUN-PTUN-0029,Pengadilan Tata Usaha Negara Jayapura,https://ptun-jayapura.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Papua,First Instance
+MCR-PU-PN-0370,Pengadilan Negeri Natuna,https://pn-natuna.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kepulauan Riau,First Instance
+MCR-PA-PTA-0011,Pengadilan Tinggi Agama Banten,https://pta-banten.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Banten,Appellate
+MCR-PU-PN-0374,Pengadilan Negeri Tanjung Selor,https://pn-tanjungselor.go.id/,REACHABLE,,,,,,5,35,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Utara,First Instance
+MCR-PU-PN-0025,Pengadilan Negeri Tanjung Balai,https://pn-tanjungbalai.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PA-PTA-0002,Pengadilan Tinggi Agama Padang,https://pta-padang.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Agama (PA),Sumatera Barat,Appellate
+MCR-PU-PN-0039,Pengadilan Negeri Mandailing Natal,https://pn-mandailingnatal.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PU-PN-0021,Pengadilan Negeri Meureudu,https://www.pn-meureudu.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PA-PTA-0003,Pengadilan Tinggi Agama Pekanbaru,https://pta-pekanbaru.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Riau,Appellate
+MCR-PA-PTA-0014,Pengadilan Tinggi Agama Yogyakarta,https://www.pta-yogyakarta.go.id/,REACHABLE,,,,,,4,9,2026-11-17,1,0,1,1,1,Peradilan Agama (PA),DI Yogyakarta,Appellate
+MCR-PA-PTA-0006,Pengadilan Tinggi Agama Palembang,https://pta-palembang.go.id/,REACHABLE,,,,,,5,15,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,Appellate
+MCR-PA-PTA-0022,Pengadilan Tinggi Agama Samarinda,https://pta-samarinda.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Timur,Appellate
+MCR-PA-MSA-0001,Mahkamah Syar'iyah Aceh,https://ms-aceh.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,Appellate
+MCR-PU-PN-0028,Pengadilan Negeri Rantauprapat,https://pn-rantauprapat.go.id/,REACHABLE,,,,,,4,18,2026-11-17,1,0,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PU-PN-0382,Pengadilan Negeri Kaimana,https://pn-kaimana.go.id/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Papua Barat,First Instance
+MCR-PA-PTA-0027,Pengadilan Tinggi Agama Makassar,https://pta-makassar.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,Appellate
+MCR-TUN-PTUN-0028,Pengadilan Tata Usaha Negara Ambon,https://ptun-ambon.go.id/,REACHABLE,,,,,,4,18,2026-11-17,0,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Maluku,First Instance
+MCR-PA-PTA-0010,Pengadilan Tinggi Agama Jakarta,https://pta-jakarta.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),DKI Jakarta,Appellate
+MCR-PA-PTA-0032,Pengadilan Tinggi Agama Jayapura,https://pta-jayapura.go.id/,REACHABLE,,,,,,5,14,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Papua,Appellate
+MCR-PA-PTA-0001,Pengadilan Tinggi Agama Medan,https://pta-medan.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,Appellate
+MCR-PU-PN-0024,Pengadilan Negeri Binjai,https://pn-binjai.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PA-PTA-0026,Pengadilan Tinggi Agama Palu,https://pta-palu.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Tengah,Appellate
+MCR-PA-PTA-0015,Pengadilan Tinggi Agama Surabaya,https://pta-surabaya.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,Appellate
+MCR-PU-PN-0003,Pengadilan Negeri Sigli,https://pn.pn-sigli.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PA-PTA-0030,Pengadilan Tinggi Agama Ambon,https://pta-ambon.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Maluku,Appellate
+MCR-PA-PTA-0012,Pengadilan Tinggi Agama Bandung,https://pta-bandung.go.id/,REACHABLE,,,,,,4,23,2026-11-17,1,0,1,1,1,Peradilan Agama (PA),Jawa Barat,Appellate
+MCR-PA-PA-0011,Pengadilan Agama Indramayu,https://pa-indramayu.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PU-PN-0363,Pengadilan Negeri Biak,https://pn-biak.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Papua,First Instance
+MCR-PU-PN-0369,Pengadilan Negeri Tanjung Balai Karimun,https://pn-tanjungbalaikarimun.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kepulauan Riau,First Instance
+MCR-PA-PTA-0013,Pengadilan Tinggi Agama Semarang,https://pta-semarang.go.id/,REACHABLE,,,,,,5,57,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,Appellate
+MCR-PA-PTA-0020,Pengadilan Tinggi Agama Palangkaraya,https://pta-palangkaraya.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Tengah,Appellate
+MCR-PA-PTA-0009,Pengadilan Tinggi Agama Bandar Lampung,https://www.pta-bandarlampung.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Lampung,Appellate
+MCR-PA-PTA-0028,Pengadilan Tinggi Agama Sulawesi Barat,https://pta-sulawesibarat.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Barat,Appellate
+MCR-PA-PTA-0018,Pengadilan Tinggi Agama Kupang,https://pta-kupang.go.id/,REACHABLE,,,,,,5,41,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Nusa Tenggara Timur,Appellate
+MCR-PU-PN-0378,Pengadilan Negeri Pasangkayu,https://pn-pasangkayu.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Barat,First Instance
+MCR-PA-PA-0004,Pengadilan Agama Ciamis,https://pa-ciamis.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PA-PA-0006,Pengadilan Agama Garut,https://pa-garut.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PA-PTA-0033,Pengadilan Tinggi Agama Papua Barat,https://pta-papuabarat.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Papua Barat,Appellate
+MCR-PA-PA-0008,Pengadilan Agama Sukabumi,https://pa-sukabumi.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PA-PTA-0017,Pengadilan Tinggi Agama Mataram,https://pta-mataram.go.id/,REACHABLE,,,,,,5,16,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Nusa Tenggara Barat,Appellate
+MCR-PA-PA-0021,Pengadilan Agama Cikarang,https://web.pa-cikarang.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PA-PTA-0016,Pengadilan Tinggi Agama Bali,https://pta-bali.go.id/v1/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bali,Appellate
+MCR-PA-PA-0012,Pengadilan Agama Majalengka,https://pa-majalengka.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PA-PA-0027,Pengadilan Agama Sangatta,https://pa-sangatta.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Timur,First Instance
+MCR-PA-PA-0009,Pengadilan Agama Cianjur,https://pa-cianjur.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PA-PA-0015,Pengadilan Agama Karawang,https://pa-karawang.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PA-PA-0007,Pengadilan Agama Bogor,https://pa-bogor.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PA-PA-0018,Pengadilan Agama Cibadak,http://pa-cibadak.go.id/new/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-TUN-PTTUN-0002,Pengadilan Tinggi Tata Usaha Negara Medan,https://pttun-medan.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Tata Usaha Negara (TUN),Sumatera Utara,Appellate
+MCR-PA-PA-0026,Pengadilan Agama Ngamprah,https://pa-ngamprah.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PU-PN-0044,Pengadilan Negeri Saumlaki,https://pn-saumlaki.go.id/home/,REACHABLE,,,,,,5,13,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku,First Instance
+MCR-PA-MS-0002,Mahkamah Syar'iyah Langsa,https://ms-langsa.go.id/wp/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-PTA-0021,Pengadilan Tinggi Agama Banjarmasin,https://pta-banjarmasin.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Selatan,Appellate
+MCR-PA-PA-0028,Pengadilan Agama Palangka Raya,https://pa-palangkaraya.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Tengah,First Instance
+MCR-PA-PTA-0025,Pengadilan Tinggi Agama Gorontalo,https://pta-gorontalo.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Gorontalo,Appellate
+MCR-PU-PN-0043,Pengadilan Negeri Tual,https://pn-tual.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku,First Instance
+MCR-PU-PN-0047,Pengadilan Negeri Dataran Hunipopu,https://pn-dataranhunipopu.go.id/id,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku,First Instance
+MCR-PU-PN-0046,Pengadilan Negeri Namlea,https://pn-namlea.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku,First Instance
+MCR-PU-PN-0377,Pengadilan Negeri Polewali,https://pn-polewali.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Barat,First Instance
+MCR-PU-PN-0048,Pengadilan Negeri Dataran Hunimoa,https://pn-dataranhunimoa.go.id/pn/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku,First Instance
+MCR-PA-PA-0017,Pengadilan Agama Subang,https://pa-subang.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PU-PN-0057,Pengadilan Negeri Subang,https://pn-subang.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Barat,First Instance
+MCR-PU-PN-0071,Pengadilan Negeri Cikarang,https://pn-cikarang.go.id/,REACHABLE,,,,,,5,12,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Barat,First Instance
+MCR-PU-PN-0050,Pengadilan Negeri Sumedang,https://pn-sumedang.go.id/,REACHABLE,,,,,,5,45,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Barat,First Instance
+MCR-MIL-DILMIL-0017,Pengadilan Militer V-17 Makassar,https://new.dilmil-makassar.go.id/,REACHABLE,,,,,,5,35,2026-11-17,1,1,1,1,1,Peradilan Militer (MIL),Sulawesi Selatan,First Instance
+MCR-PU-PN-0077,Pengadilan Negeri Banjarmasin,https://pn-banjarmasin.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PU-PN-0079,Pengadilan Negeri Kotabaru,https://pn-kotabaru.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PU-PN-0054,Pengadilan Negeri Purwakarta,https://pn-purwakarta.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Barat,First Instance
+MCR-PU-PN-0058,Pengadilan Negeri Bogor,https://pn-bogor.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Barat,First Instance
+MCR-PA-PTA-0019,Pengadilan Tinggi Agama Pontianak,https://pta-pontianak.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Barat,Appellate
+MCR-PU-PN-0080,Pengadilan Negeri Barabai,https://pn-barabai.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PU-PN-0082,Pengadilan Negeri Tanjung,https://pn-tanjung.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PU-PN-0084,Pengadilan Negeri Rantau,https://pn-rantau.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PU-PN-0068,Pengadilan Negeri Depok,https://pn-depok.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Barat,First Instance
+MCR-PU-PN-0085,Pengadilan Negeri Marabahan,https://pn-marabahan.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PU-PN-0081,Pengadilan Negeri Martapura,https://pn-martapura.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PU-PN-0083,Pengadilan Negeri Amuntai,https://pn-amuntai.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PU-PN-0076,Pengadilan Negeri Mentok,https://pn-mentok.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kepulauan Bangka Belitung,First Instance
+MCR-PU-PN-0089,Pengadilan Negeri Paringin,https://pn-paringin.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PA-PA-0016,Pengadilan Agama Purwakarta,https://pa-purwakarta.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PU-PN-0087,Pengadilan Negeri Banjarbaru,https://pn-banjarbaru.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PU-PN-0086,Pengadilan Negeri Pelaihari,https://pn-pelaihari.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PA-MS-0001,Mahkamah Syar'iyah Simpang Tiga Redelong,https://ms-simpangtigaredelong.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PU-PN-0088,Pengadilan Negeri Batulicin,https://web.pn-batulicin.go.id/,REACHABLE,,,,,,5,15,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PU-PN-0095,Pengadilan Negeri Curup,https://pn-curup.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Bengkulu,First Instance
+MCR-PU-PN-0090,Pengadilan Negeri Serang,https://pn-serang.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Banten,First Instance
+MCR-PU-PN-0100,Pengadilan Negeri Mukomuko,https://pn-mukomuko.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Bengkulu,First Instance
+MCR-PU-PN-0078,Pengadilan Negeri Kandangan,https://pn-kandangan.go.id/web/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Selatan,First Instance
+MCR-PU-PN-0092,Pengadilan Negeri Pandeglang,https://pn-pandeglang.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Banten,First Instance
+MCR-PA-PA-0019,Pengadilan Agama Sumber,https://web.pa-sumber.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PU-PN-0041,Pengadilan Negeri Ambon,https://pn-ambon.go.id/,REACHABLE,,,,,,5,39,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku,First Instance
+MCR-PU-PN-0108,Pengadilan Negeri Amlapura,https://pn-amlapura.go.id/,REACHABLE,,,,,,5,11,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Bali,First Instance
+MCR-PU-PN-0103,Pengadilan Negeri Denpasar,https://pn-denpasar.go.id/,REACHABLE,,,,,,4,16,2026-11-17,1,0,1,1,1,Peradilan Umum (PU),Bali,First Instance
+MCR-PU-PN-0106,Pengadilan Negeri Gianyar,https://pn-gianyar.go.id/,REACHABLE,,,,,,3,3,2026-11-17,0,1,1,1,0,Peradilan Umum (PU),Bali,First Instance
+MCR-PU-PN-0107,Pengadilan Negeri Semarapura,https://pn-semarapura.go.id/,REACHABLE,,,,,,4,4,2026-11-17,1,1,1,1,0,Peradilan Umum (PU),Bali,First Instance
+MCR-PU-PN-0110,Pengadilan Negeri Negara,https://pn-negara.go.id/,REACHABLE,,,,,,5,8,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Bali,First Instance
+MCR-PU-PN-0109,Pengadilan Negeri Bangli,https://pn-bangli.go.id/,REACHABLE,,,,,,5,14,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Bali,First Instance
+MCR-PU-PN-0365,Pengadilan Negeri Serui,https://pn-serui.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Papua,First Instance
+MCR-PU-PN-0111,Pengadilan Negeri Gorontalo,https://pn-gorontalo.go.id/,REACHABLE,,,,,,5,43,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Gorontalo,First Instance
+MCR-PU-PN-0114,Pengadilan Negeri Tilamuta,https://pn-tilamuta.go.id/,REACHABLE,,,,,,5,40,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Gorontalo,First Instance
+MCR-PU-PN-0053,Pengadilan Negeri Ciamis,https://pn-ciamis.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Barat,First Instance
+MCR-PU-PN-0052,Pengadilan Negeri Garut,https://pn-garut.go.id/,REACHABLE,,,,,,5,42,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Barat,First Instance
+MCR-PU-PN-0116,Pengadilan Negeri Jakarta Pusat,https://pn-jakartapusat.go.id/,REACHABLE,,,,,,5,16,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),DKI Jakarta,First Instance
+MCR-PU-PN-0075,Pengadilan Negeri Koba,https://pn-koba.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kepulauan Bangka Belitung,First Instance
+MCR-PU-PN-0074,Pengadilan Negeri Tanjung Pandan,https://pn-tanjungpandan.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kepulauan Bangka Belitung,First Instance
+MCR-PU-PN-0105,Pengadilan Negeri Tabanan,https://pn-tabanan.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Bali,First Instance
+MCR-PU-PN-0120,Pengadilan Negeri Jakarta Utara,https://pn-jakartautara.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),DKI Jakarta,First Instance
+MCR-PU-PN-0102,Pengadilan Negeri Tubei,https://www.pn-tubei.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Bengkulu,First Instance
+MCR-PU-PN-0131,Pengadilan Negeri Kendari,https://pn-kendari.go.id/index.php?lang=en,REACHABLE,,,,,,5,16,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Tenggara,First Instance
+MCR-PA-PA-0020,Pengadilan Agama Cibinong,https://pa-cibinong.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PU-PN-0141,Pengadilan Negeri Kalabahi,https://pn-kalabahi.go.id/,REACHABLE,,,,,,4,17,2026-11-17,1,0,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0130,Pengadilan Negeri Sengeti,https://pn-sengeti.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jambi,First Instance
+MCR-PU-PN-0139,Pengadilan Negeri Ende,https://pn-ende.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0138,Pengadilan Negeri Kupang,https://pn-kupang.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0019,Pengadilan Negeri Simpang Tiga Redelong,https://pn-simpangtigaredelong.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Aceh,First Instance
+MCR-PU-PN-0144,Pengadilan Negeri Waikabubak,http://pn-waikabubak.go.id/pn/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0150,Pengadilan Negeri Makassar,https://pn-makassar.go.id/,REACHABLE,,,,,,0,0,2026-11-17,0,0,0,0,0,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0122,Pengadilan Negeri Muara Bungo,https://pn-muarabungo.go.id/,REACHABLE,,,,,,4,19,2026-11-17,1,1,1,1,0,Peradilan Umum (PU),Jambi,First Instance
+MCR-PU-PN-0134,Pengadilan Negeri Kolaka,https://www.pn-kolaka.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Tenggara,First Instance
+MCR-PU-PN-0124,Pengadilan Negeri Sungai Penuh,https://pn-sungaipenuh.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jambi,First Instance
+MCR-PU-PN-0145,Pengadilan Negeri Ruteng,https://pn-ruteng.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0149,Pengadilan Negeri Soe,https://pn-soe.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0147,Pengadilan Negeri Labuan Bajo,https://pn-labuanbajo.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0091,Pengadilan Negeri Rangkasbitung,https://web.pn-rangkasbitung.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Banten,First Instance
+MCR-PU-PN-0161,Pengadilan Negeri Jeneponto,https://pn-jeneponto.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0135,Pengadilan Negeri Unaaha,https://pn-unaaha.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Tenggara,First Instance
+MCR-PU-PN-0128,Pengadilan Negeri Sarolangun,https://pn-sarolangun.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jambi,First Instance
+MCR-PU-PN-0042,Pengadilan Negeri Masohi,https://pn-masohi.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku,First Instance
+MCR-PU-PN-0125,Pengadilan Negeri Bangko,https://pn-bangko.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jambi,First Instance
+MCR-PU-PN-0172,Pengadilan Negeri Tobelo,https://pn-tobelo.go.id/pengadilan-negeri-tobelo,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku Utara,First Instance
+MCR-PU-PN-0140,Pengadilan Negeri Maumere,https://www.pn-maumere.go.id/,REACHABLE,,,,,,5,15,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0051,Pengadilan Negeri Tasikmalaya,https://pn-tasikmalaya.go.id/index.php/id/,REACHABLE,,,,,,5,43,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Barat,First Instance
+MCR-PU-PN-0156,Pengadilan Negeri Pinrang,https://www.pn-pinrang.go.id/pnpinrang/,REACHABLE,,,,,,5,38,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0159,Pengadilan Negeri Bulukumba,https://pn-bulukumba.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0166,Pengadilan Negeri Sengkang,https://pn-sengkang.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0177,Pengadilan Negeri Kotamobagu,https://pn-kotamobagu.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Utara,First Instance
+MCR-PU-PN-0142,Pengadilan Negeri Atambua,https://pn-atambua.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0127,Pengadilan Negeri Tebo,https://pn-tebo.go.id/2025/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jambi,First Instance
+MCR-PU-PN-0175,Pengadilan Negeri Tondano,https://pn-tondano.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Utara,First Instance
+MCR-PU-PN-0174,Pengadilan Negeri Manado,https://pn-manado.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Utara,First Instance
+MCR-PU-PN-0168,Pengadilan Negeri Masamba,https://pn-masamba.go.id/portal/,REACHABLE,,,,,,5,38,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0171,Pengadilan Negeri Ternate,https://pn-ternate.go.id/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Maluku Utara,First Instance
+MCR-PU-PN-0185,Pengadilan Negeri Dompu,https://pn-dompu.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Barat,First Instance
+MCR-PU-PN-0180,Pengadilan Negeri Amurang,https://pn-amurang.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Utara,First Instance
+MCR-PU-PN-0182,Pengadilan Negeri Selong,https://pn-selong.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Barat,First Instance
+MCR-PU-PN-0189,Pengadilan Negeri Padang,https://pn-padang.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PU-PN-0056,Pengadilan Negeri Karawang,https://pn-karawang.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Barat,First Instance
+MCR-PU-PN-0146,Pengadilan Negeri Bajawa,https://pn-bajawa.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0098,Pengadilan Negeri Tais,https://www.pn-tais.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Bengkulu,First Instance
+MCR-PU-PN-0184,Pengadilan Negeri Bima,https://pn-bima.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Barat,First Instance
+MCR-PU-PN-0101,Pengadilan Negeri Kepahiang,https://www.pn-kepahiang.go.id/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Bengkulu,First Instance
+MCR-PU-PN-0167,Pengadilan Negeri Palopo,https://pn-palopo.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0188,Pengadilan Negeri Sibuhuan,https://pn-sibuhuan.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PU-PN-0195,Pengadilan Negeri Bukittinggi,https://pn-bukittinggi.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PU-PN-0123,Pengadilan Negeri Kuala Tungkal,https://pn-kualatungkal.go.id/news/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jambi,First Instance
+MCR-PU-PN-0169,Pengadilan Negeri Malili,https://web.pn-malili.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0190,Pengadilan Negeri Sawahlunto,https://pn-sawahlunto.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PU-PN-0192,Pengadilan Negeri Solok,https://pn-solok.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PU-PN-0193,Pengadilan Negeri Pariaman,https://pn-pariaman.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PU-PN-0163,Pengadilan Negeri Selayar,https://pn-selayar.go.id/wp/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0187,Pengadilan Negeri Sei Rampah,https://pn-seirampah.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Utara,First Instance
+MCR-PU-PN-0176,Pengadilan Negeri Bitung,https://pn-bitung.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Utara,First Instance
+MCR-PU-PN-0194,Pengadilan Negeri Painan,https://pn-painan.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PU-PN-0210,Pengadilan Negeri Pangkalan Bun,https://pn-pangkalanbun.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Tengah,First Instance
+MCR-PU-PN-0198,Pengadilan Negeri Padang Panjang,https://pn-padangpanjang.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PU-PN-0199,Pengadilan Negeri Lubuk Basung,https://www.pn-lubukbasung.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PU-PN-0200,Pengadilan Negeri Tanjung Pati,https://pn-tanjungpati.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PA-PA-0002,Pengadilan Agama Sumedang,https://pa-sumedang.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PU-PN-0207,Pengadilan Negeri Kuala Kapuas,https://pn-kualakapuas.go.id/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Tengah,First Instance
+MCR-PU-PN-0113,Pengadilan Negeri Marisa,https://pn-marisa.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Gorontalo,First Instance
+MCR-PU-PN-0216,Pengadilan Negeri Baturaja,https://pn-baturaja.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Selatan,First Instance
+MCR-PU-PN-0224,Pengadilan Negeri Palu,https://www.pn-palu.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Tengah,First Instance
+MCR-PU-PN-0228,Pengadilan Negeri Donggala,https://pn-donggala.go.id/,REACHABLE,,,,,,4,18,2026-11-17,1,0,1,1,1,Peradilan Umum (PU),Sulawesi Tengah,First Instance
+MCR-PA-PA-0029,Pengadilan Agama Pamekasan,https://pa-pamekasan.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PU-PN-0219,Pengadilan Negeri Muara Enim,https://pn-muaraenim.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Selatan,First Instance
+MCR-PU-PN-0222,Pengadilan Negeri Prabumulih,https://pn-prabumulih.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Selatan,First Instance
+MCR-PU-PN-0218,Pengadilan Negeri Lahat,https://pn-lahat.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Selatan,First Instance
+MCR-PU-PN-0221,Pengadilan Negeri Pagar Alam,https://pn-pagaralam.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Selatan,First Instance
+MCR-PU-PN-0217,Pengadilan Negeri Lubuk Linggau,https://www.pn-lubuklinggau.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Selatan,First Instance
+MCR-PU-PN-0232,Pengadilan Negeri Singkawang,https://pn-singkawang.go.id/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Barat,First Instance
+MCR-PU-PN-0162,Pengadilan Negeri Takalar,http://pn-takalar.go.id/main/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0227,Pengadilan Negeri Toli-Toli,https://pn-tolitoli.go.id/,REACHABLE,,,,,,5,35,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Tengah,First Instance
+MCR-PA-PA-0001,Pengadilan Agama Bandung,https://pa-bandung.go.id/,REACHABLE,,,,,,5,35,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Barat,First Instance
+MCR-PU-PN-0153,Pengadilan Negeri Pangkajene,https://www.pn-pangkajene.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0230,Pengadilan Negeri Parigi,https://pn-parigi.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Tengah,First Instance
+MCR-PU-PN-0204,Pengadilan Negeri Pulau Punjung,https://pn-pulaupunjung.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PU-PN-0211,Pengadilan Negeri Kuala Kurun,https://pn-kualakurun.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Tengah,First Instance
+MCR-PU-PN-0242,Pengadilan Negeri Bengkalis,https://pn-bengkalis.go.id/,REACHABLE,,,,,,5,44,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Riau,First Instance
+MCR-PU-PN-0233,Pengadilan Negeri Sambas,https://pn-sambas.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Barat,First Instance
+MCR-PU-PN-0248,Pengadilan Negeri Rokan Hilir,https://pn-rokanhilir.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Riau,First Instance
+MCR-PU-PN-0238,Pengadilan Negeri Putussibau,https://pn-putussibau.go.id/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Barat,First Instance
+MCR-PU-PN-0220,Pengadilan Negeri Sekayu,https://pn-sekayu.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Selatan,First Instance
+MCR-PU-PN-0229,Pengadilan Negeri Buol,https://pn-buol.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Tengah,First Instance
+MCR-PU-PN-0253,Pengadilan Negeri Balikpapan,https://pn-balikpapan.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Kalimantan Timur,First Instance
+MCR-PU-PN-0239,Pengadilan Negeri Bengkayang,https://pn-bengkayang.go.id/,REACHABLE,,,,,,5,39,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Barat,First Instance
+MCR-PU-PN-0244,Pengadilan Negeri Tembilahan,https://pn-tembilahan.go.id/,REACHABLE,,,,,,5,36,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Riau,First Instance
+MCR-PU-PN-0237,Pengadilan Negeri Sanggau,https://pn-sanggau.go.id/web/index.php,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Barat,First Instance
+MCR-PU-PN-0264,Pengadilan Negeri Rembang,https://pn-rembang.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0246,Pengadilan Negeri Dumai,https://pn-dumai.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Riau,First Instance
+MCR-PU-PN-0257,Pengadilan Negeri Tanjung Redeb,https://pn-tanjungredeb.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Timur,First Instance
+MCR-PU-PN-0269,Pengadilan Negeri Demak,https://pn-demak.go.id/ma/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0234,Pengadilan Negeri Mempawah,https://pn-mempawah.go.id/,REACHABLE,,,,,,5,42,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Barat,First Instance
+MCR-PU-PN-0268,Pengadilan Negeri Kendal,https://pn-kendal.go.id/,REACHABLE,,,,,,5,38,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0133,Pengadilan Negeri Raha,https://pn-raha.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Tenggara,First Instance
+MCR-PU-PN-0252,Pengadilan Negeri Samarinda,https://pn-samarinda.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Timur,First Instance
+MCR-PU-PN-0258,Pengadilan Negeri Penajam,https://pn-penajam.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Timur,First Instance
+MCR-PU-PN-0270,Pengadilan Negeri Pekalongan,https://pn-pekalongan.go.id/,REACHABLE,,,,,,5,42,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0267,Pengadilan Negeri Ungaran,https://pn-ungaran.go.id/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0271,Pengadilan Negeri Batang,https://pn-batang.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0272,Pengadilan Negeri Pemalang,https://pn-pemalang.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0203,Pengadilan Negeri Pasaman Barat,https://pn-pasamanbarat.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PU-PN-0250,Pengadilan Negeri Pasir Pengaraian,https://pn-pasirpengaraian.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Riau,First Instance
+MCR-PU-PN-0255,Pengadilan Negeri Bontang,https://pn-bontang.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Timur,First Instance
+MCR-PU-PN-0260,Pengadilan Negeri Surakarta,https://pn-surakarta.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0164,Pengadilan Negeri Watampone,https://pn-watampone.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0215,Pengadilan Negeri Kayuagung,https://pn-kayuagung.go.id/,REACHABLE,,,,,,5,36,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Selatan,First Instance
+MCR-PU-PN-0212,Pengadilan Negeri Pulang Pisau,https://pn-pulangpisau.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Tengah,First Instance
+MCR-PU-PN-0181,Pengadilan Negeri Mataram,https://pn-mataram.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Barat,First Instance
+MCR-PU-PN-0262,Pengadilan Negeri Kudus,https://pn-kudus.go.id/,REACHABLE,,,,,,5,41,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0275,Pengadilan Negeri Brebes,https://pn-brebes.go.id/,REACHABLE,,,,,,5,41,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0256,Pengadilan Negeri Sangatta,https://web.pn-sangatta.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Timur,First Instance
+MCR-PU-PN-0280,Pengadilan Negeri Cilacap,https://pn-cilacap.go.id/,REACHABLE,,,,,,5,40,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0284,Pengadilan Negeri Mungkid,https://pn-mungkid.go.id/index.php,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0285,Pengadilan Negeri Wonosobo,https://pn-wonosobo.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0287,Pengadilan Negeri Klaten,https://pn-klaten.go.id/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0223,Pengadilan Negeri Pangkalan Balai,https://pn-pangkalanbalai.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Selatan,First Instance
+MCR-PU-PN-0295,Pengadilan Negeri Gresik,https://pn-gresik.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0298,Pengadilan Negeri Lamongan,https://pn-lamongan.go.id/pn/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0281,Pengadilan Negeri Kebumen,https://pn-kebumen.go.id/,REACHABLE,,,,,,5,38,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0290,Pengadilan Negeri Karanganyar,https://pn-karanganyar.go.id/,REACHABLE,,,,,,5,39,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0283,Pengadilan Negeri Magelang,https://pn-magelang.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0289,Pengadilan Negeri Sragen,https://pn-sragen.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0294,Pengadilan Negeri Sidoarjo,https://pn-sidoarjo.go.id/,REACHABLE,,,,,,5,46,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0276,Pengadilan Negeri Purwokerto,https://pn-purwokerto.go.id/,REACHABLE,,,,,,5,39,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0305,Pengadilan Negeri Ponorogo,https://www.pn-ponorogo.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0282,Pengadilan Negeri Purworejo,https://pn-purworejo.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0292,Pengadilan Negeri Wonogiri,http://pn-wonogiri.go.id/web/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0158,Pengadilan Negeri Sinjai,https://www.pn-sinjai.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PU-PN-0236,Pengadilan Negeri Ketapang,https://pn-ketapang.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Barat,First Instance
+MCR-PU-PN-0307,Pengadilan Negeri Kediri,https://pn-kediri.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0314,Pengadilan Negeri Kepanjen,https://pn-kepanjen.go.id/,REACHABLE,,,,,,3,11,2026-11-17,0,1,1,1,0,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0309,Pengadilan Negeri Nganjuk,https://pn-nganjuk.go.id/site/,REACHABLE,,,,,,5,36,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0306,Pengadilan Negeri Pacitan,https://pn-pacitan.go.id/pn/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0318,Pengadilan Negeri Lumajang,https://pn-lumajang.go.id/,REACHABLE,,,,,,4,19,2026-11-17,1,0,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0310,Pengadilan Negeri Tulungagung,https://pn-tulungagung.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0277,Pengadilan Negeri Banyumas,https://www.pn-banyumas.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0303,Pengadilan Negeri Magetan,https://pn-magetan.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0321,Pengadilan Negeri Bondowoso,https://pn-bondowoso.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0326,Pengadilan Negeri Sumenep,https://pn-sumenep.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0315,Pengadilan Negeri Pasuruan,https://pn-pasuruan.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0265,Pengadilan Negeri Blora,https://pn-blora.go.id/,REACHABLE,,,,,,5,40,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0278,Pengadilan Negeri Purbalingga,https://www.pn-purbalingga.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0324,Pengadilan Negeri Sampang,https://pn-sampang.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0328,Pengadilan Negeri Metro,https://pn-metro.go.id/,REACHABLE,,,,,,2,2,2026-11-17,0,0,1,1,0,Peradilan Umum (PU),Lampung,First Instance
+MCR-PU-PN-0327,Pengadilan Negeri Tanjung Karang,https://pn-tanjungkarang.go.id/,REACHABLE,,,,,,2,2,2026-11-17,0,0,1,1,0,Peradilan Umum (PU),Lampung,First Instance
+MCR-PU-PN-0197,Pengadilan Negeri Payakumbuh,https://pn-payakumbuh.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PU-PN-0279,Pengadilan Negeri Banjarnegara,https://pn-banjarnegara.go.id/,REACHABLE,,,,,,5,38,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0336,Pengadilan Negeri Gedong Tataan,https://pn-gedongtataan.go.id/,REACHABLE,,,,,,3,8,2026-11-17,0,1,1,1,0,Peradilan Umum (PU),Lampung,First Instance
+MCR-PU-PN-0334,Pengadilan Negeri Kota Agung,https://pn-kotaagung.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Lampung,First Instance
+MCR-PU-PN-0322,Pengadilan Negeri Situbondo,https://pn-situbondo.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0338,Pengadilan Negeri Sleman,https://pn-sleman.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),DI Yogyakarta,First Instance
+MCR-PU-PN-0214,Pengadilan Negeri Palembang,https://pn-palembang.go.id/,REACHABLE,,,,,,5,39,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Selatan,First Instance
+MCR-PU-PN-0329,Pengadilan Negeri Kotabumi,https://pn-kotabumi.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Lampung,First Instance
+MCR-PU-PN-0320,Pengadilan Negeri Banyuwangi,https://pn-banyuwangi.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0179,Pengadilan Negeri Airmadidi,https://pn-airmadidi.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Utara,First Instance
+MCR-PU-PN-0231,Pengadilan Negeri Pontianak,https://pn-pontianak.go.id/,REACHABLE,,,,,,5,39,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Barat,First Instance
+MCR-PU-PN-0319,Pengadilan Negeri Jember,https://pn-jember.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0254,Pengadilan Negeri Tenggarong,https://pn-tenggarong.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Timur,First Instance
+MCR-PU-PN-0317,Pengadilan Negeri Kraksaan,https://pn-kraksaan.go.id/web/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0341,Pengadilan Negeri Wates,https://pn-wates.go.id/wordpress/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),DI Yogyakarta,First Instance
+MCR-PU-PN-0304,Pengadilan Negeri Ngawi,https://pn-ngawi.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0332,Pengadilan Negeri Menggala,https://pn-menggala.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Lampung,First Instance
+MCR-PA-PA-0035,Pengadilan Agama Salatiga,https://pa-salatiga.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0032,Pengadilan Agama Tegal,https://pa-tegal.go.id/,REACHABLE,,,,,,5,35,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PU-PN-0296,Pengadilan Negeri Mojokerto,https://pn-mojokerto.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0323,Pengadilan Negeri Bangkalan,https://pn-bangkalan.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0335,Pengadilan Negeri Sukadana,https://pn-sukadana.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Lampung,First Instance
+MCR-PA-PA-0047,Pengadilan Agama Kebumen,https://pa-kebumen.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0045,Pengadilan Agama Wonosobo,https://pa-wonosobo.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0046,Pengadilan Agama Purworejo,https://pa-purworejo.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0052,Pengadilan Agama Banjarnegara,https://pa-banjarnegara.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PU-PN-0313,Pengadilan Negeri Malang,https://pn-malang.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PA-PA-0034,Pengadilan Agama Batang,https://pa-batang.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0062,Pengadilan Agama Kajen,https://pa-kajen.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PU-PN-0340,Pengadilan Negeri Wonosari,https://pn-wonosari.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),DI Yogyakarta,First Instance
+MCR-PA-PA-0065,Pengadilan Agama Wates,https://pa-wates.go.id/v2/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),DI Yogyakarta,First Instance
+MCR-PA-PA-0030,Pengadilan Agama Pekalongan,https://pa-pekalongan.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PU-PN-0288,Pengadilan Negeri Boyolali,https://pn-boyolali.go.id/id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PA-PA-0037,Pengadilan Agama Demak,https://pa-demak.go.id/,REACHABLE,,,,,,4,22,2026-11-17,0,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0040,Pengadilan Agama Kudus,https://www.pa-kudus.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PU-PN-0261,Pengadilan Negeri Pati,https://pn-pati.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PA-PA-0054,Pengadilan Agama Sragen,https://pa-sragen.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0066,Pengadilan Agama Bantul,https://v3.pa-bantul.go.id/,REACHABLE,,,,,,5,15,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),DI Yogyakarta,First Instance
+MCR-PA-PA-0075,Pengadilan Agama Lamongan,https://pa-lamongan.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PA-0073,Pengadilan Agama Gresik,https://pa-gresik.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PU-PN-0297,Pengadilan Negeri Jombang,https://www.pn-jombang.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PU-PN-0333,Pengadilan Negeri Liwa,https://pn-liwa.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Lampung,First Instance
+MCR-PU-PN-0339,Pengadilan Negeri Bantul,https://www.pn-bantul.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),DI Yogyakarta,First Instance
+MCR-PA-PA-0036,Pengadilan Agama Kendal,https://www.pa-kendal.go.id/wp/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0074,Pengadilan Agama Bojonegoro,https://pa-bojonegoro.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PA-0033,Pengadilan Agama Brebes,https://pa-brebes.go.id/,REACHABLE,,,,,,5,35,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0091,Pengadilan Agama Ngawi,https://pa-ngawi.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PTA-0029,Pengadilan Tinggi Agama Kendari,https://pta-kendari.go.id/,REACHABLE,,,,,,5,15,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Tenggara,Appellate
+MCR-PA-PA-0067,Pengadilan Agama Wonosari,https://pa-wonosari.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),DI Yogyakarta,First Instance
+MCR-PA-PA-0083,Pengadilan Agama Nganjuk,https://pa-nganjuk.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-MS-0003,Mahkamah Syar'iyah Banda Aceh,https://ms-bandaaceh.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-PA-0056,Pengadilan Agama Sukoharjo,https://pa-sukoharjo.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0082,Pengadilan Agama Blitar,https://pa-blitar.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PA-0088,Pengadilan Agama Lumajang,https://web.pa-lumajang.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PA-0081,Pengadilan Agama Trenggalek,https://pa-trenggalek.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PU-PN-0273,Pengadilan Negeri Tegal,https://pn-tegal.go.id/id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PA-PA-0063,Pengadilan Agama Yogyakarta,https://pa-yogyakarta.go.id/,REACHABLE,,,,,,5,35,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),DI Yogyakarta,First Instance
+MCR-PA-PA-0099,Pengadilan Agama Tuban,https://pa-tuban.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-MS-0005,Mahkamah Syar'iyah Sigli,https://ms-sigli.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-PA-0092,Pengadilan Agama Pacitan,https://pa-pacitan.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-MIL-DILMIL-0004,Pengadilan Militer I-04 Padang,https://dilmil-padang.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Militer (MIL),Sumatera Barat,First Instance
+MCR-PA-PA-0093,Pengadilan Agama Bangkalan,https://pa-bangkalan.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-MS-0006,Mahkamah Syar'iyah Meureudu,https://ms-meureudu.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-PA-0070,Pengadilan Agama Sidoarjo,https://pa-sidoarjo.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PU-PN-0191,Pengadilan Negeri Batusangkar,https://pn-batusangkar.go.id/,REACHABLE,,,,,,5,66,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sumatera Barat,First Instance
+MCR-PA-MS-0012,Mahkamah Syar'iyah Kuala Simpang,https://ms-kualasimpang.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-MS-0017,Mahkamah Syar'iyah Tapak Tuan,https://ms-tapaktuan.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-PA-0060,Pengadilan Agama Slawi,https://pa-slawi.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-MS-0004,Mahkamah Syar'iyah Sabang,https://ms-sabang.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-PA-0050,Pengadilan Agama Cilacap,https://pa-cilacap.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0102,Pengadilan Agama Kabanjahe,https://pa-kabanjahe.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0094,Pengadilan Agama Sampang,https://pa-sampang.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-MS-0008,Mahkamah Syar'iyah Lhok Sukon,https://www.ms-lhoksukon.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-MS-0007,Mahkamah Syar'iyah Bireuen,https://ms-bireuen.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-MS-0019,Mahkamah Syar'iyah Suka Makmue,https://ms-sukamakmue.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-MS-0020,Mahkamah Syar'iyah Kota Subulussalam,https://ms-kotasubulussalam.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-MS-0009,Mahkamah Syar'iyah Takengon,https://ms-takengon.net/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-PA-0031,Pengadilan Agama Pemalang,https://pa-pemalang.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0104,Pengadilan Agama Rantau Prapat,https://pa-rantauprapat.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0113,Pengadilan Agama Sibuhuan,https://pa-sibuhuan.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0077,Pengadilan Agama Bondowoso,https://pa-bondowoso.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PA-0108,Pengadilan Agama Pematang Siantar,https://pa-pematangsiantar.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0048,Pengadilan Agama Purwokerto,https://pa-purwokerto.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0116,Pengadilan Agama Simalungun,https://pa-simalungun.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0051,Pengadilan Agama Purbalingga,https://pa-purbalingga.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0055,Pengadilan Agama Wonogiri,https://pa-wonogiri.go.id/,REACHABLE,,,,,,4,18,2026-11-17,0,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0107,Pengadilan Agama Sidikalang,https://pa-sidikalang.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-MS-0015,Mahkamah Syar'iyah Sinabang,https://ms-sinabang.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-PA-0079,Pengadilan Agama Banyuwangi,https://pa-banyuwangi.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PA-0053,Pengadilan Agama Klaten,https://pa-klaten.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0111,Pengadilan Agama Padang Sidempuan,https://www.pa-padangsidempuan.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0123,Pengadilan Agama Pariaman,https://pa-pariaman.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-PA-0059,Pengadilan Agama Ambarawa,https://pa-ambarawa.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0106,Pengadilan Agama Tebing Tinggi,https://www.pa-tebingtinggi.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0120,Pengadilan Agama Tarutung,https://pa-tarutung.go.id/index.php?lang=id,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0117,Pengadilan Agama Sei Rampah,https://pa-seirampah.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0129,Pengadilan Agama Sijunjung,https://pa-sijunjung.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-MS-0011,Mahkamah Syar'iyah Idi,https://ms-idi.go.id/go/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-PA-0136,Pengadilan Agama Maninjau,https://pa-maninjau.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-PA-0148,Pengadilan Agama Teluk Kuantan,https://pa-telukkuantan.go.id/,REACHABLE,,,,,,5,16,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Riau,First Instance
+MCR-PA-PA-0043,Pengadilan Agama Magelang,https://pa-magelang.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0109,Pengadilan Agama Balige,https://pa-balige.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0096,Pengadilan Agama Kangean,https://pa-kangean.go.id/,REACHABLE,,,,,,5,14,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PA-0072,Pengadilan Agama Bawean,https://pa-bawean.go.id/,REACHABLE,,,,,,5,38,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PA-0132,Pengadilan Agama Painan,https://pa-painan.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-MS-0014,Mahkamah Syar'iyah Meulaboh,https://ms-meulaboh.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-PA-0150,Pengadilan Agama Ujung Tanjung,https://pa-ujungtanjung.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Riau,First Instance
+MCR-PA-PA-0149,Pengadilan Agama Pangkalan Kerinci,https://pa-pangkalankerinci.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Agama (PA),Riau,First Instance
+MCR-PA-PA-0137,Pengadilan Agama Payakumbuh,https://pa-payakumbuh.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-PA-0134,Pengadilan Agama Lubuk Sikaping,https://pa-lubuksikaping.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-PA-0115,Pengadilan Agama Lubuk Pakam,https://pa-lubukpakam.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0118,Pengadilan Agama Stabat,https://pa-stabat.go.id/index.php/id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0128,Pengadilan Agama Padang Panjang,https://pa-padangpanjang.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-PA-0154,Pengadilan Agama Bangko,https://pa-bangko.go.id/,REACHABLE,,,,,,5,38,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jambi,First Instance
+MCR-PA-PA-0161,Pengadilan Agama Lahat,https://pa-lahat.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,First Instance
+MCR-PA-PA-0155,Pengadilan Agama Sungai Penuh,https://pa-sungaipenuh.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jambi,First Instance
+MCR-PA-PA-0156,Pengadilan Agama Sarolangun,https://pa-sarolangun.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jambi,First Instance
+MCR-PA-PA-0114,Pengadilan Agama Kisaran,https://www.pa-kisaran.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Utara,First Instance
+MCR-PA-PA-0125,Pengadilan Agama Sawahlunto,https://pa-sawahlunto.go.id/,REACHABLE,,,,,,5,41,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-PA-0163,Pengadilan Agama Kayu Agung,https://pa-kayuagung.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,First Instance
+MCR-PA-PA-0165,Pengadilan Agama Lubuk Linggau,https://pa-lubuklinggau.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,First Instance
+MCR-PA-PA-0167,Pengadilan Agama Pangkalan Balai,https://pa-pangkalanbalai.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,First Instance
+MCR-PA-PA-0166,Pengadilan Agama Sekayu,https://pa-sekayu.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,First Instance
+MCR-PA-PA-0176,Pengadilan Agama Gedong Tataan,https://www.pa-gedongtataan.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Lampung,First Instance
+MCR-PA-PA-0152,Pengadilan Agama Muara Bungo,https://pa-muarabungo.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jambi,First Instance
+MCR-PA-MS-0010,Mahkamah Syar'iyah Lhok Seumawe,https://ms-lhokseumawe.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Aceh,First Instance
+MCR-PA-PA-0169,Pengadilan Agama Muaradua,https://pa-muaradua.go.id/,REACHABLE,,,,,,5,40,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,First Instance
+MCR-PA-PA-0131,Pengadilan Agama Muara Labuh,https://pa-muaralabuh.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-PA-0145,Pengadilan Agama Selat Panjang,https://www.pa-selatpanjang.go.id/id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Agama (PA),Riau,First Instance
+MCR-PA-PA-0172,Pengadilan Agama Tanjung Karang,https://pa-tanjungkarang.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Lampung,First Instance
+MCR-PA-PA-0174,Pengadilan Agama Metro,https://pa-metro.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Agama (PA),Lampung,First Instance
+MCR-PA-PA-0168,Pengadilan Agama Martapura,https://pa-martapura.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,First Instance
+MCR-PA-PA-0177,Pengadilan Agama Pringsewu,https://pa-pringsewu.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Lampung,First Instance
+MCR-PA-PA-0157,Pengadilan Agama Muara Sabak,https://pa-muarasabak.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jambi,First Instance
+MCR-PA-PA-0151,Pengadilan Agama Jambi,https://pa-jambi.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jambi,First Instance
+MCR-PA-PA-0184,Pengadilan Agama Blambangan Umpu,https://www.pa-blambanganumpu.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Lampung,First Instance
+MCR-PA-PA-0133,Pengadilan Agama Bukittinggi,https://pa-bukittinggi.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-PA-0159,Pengadilan Agama Sengeti,https://pa-sengeti.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jambi,First Instance
+MCR-PA-PA-0195,Pengadilan Agama Nanga Bulik,https://pa-nangabulik.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Tengah,First Instance
+MCR-PA-PA-0199,Pengadilan Agama Pulang Pisau,https://pa-pulangpisau.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Tengah,First Instance
+MCR-PA-PA-0049,Pengadilan Agama Banyumas,https://pa-banyumas.go.id/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PA-PA-0170,Pengadilan Agama Pagar Alam,https://pa-pagaralam.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,First Instance
+MCR-PA-PA-0182,Pengadilan Agama Tanggamus,https://pa-tanggamus.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Lampung,First Instance
+MCR-PA-PA-0188,Pengadilan Agama Sintang,https://pa-sintang.go.id/,REACHABLE,,,,,,5,40,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Barat,First Instance
+MCR-PA-PA-0068,Pengadilan Agama Surabaya,https://pa-surabaya.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PA-0193,Pengadilan Agama Sungai Raya,https://pa-sungairaya.go.id/,REACHABLE,,,,,,5,16,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Barat,First Instance
+MCR-PA-PA-0210,Pengadilan Agama Amuntai,https://pa-amuntai.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Selatan,First Instance
+MCR-PA-PA-0204,Pengadilan Agama Kuala Kapuas,https://pa-kualakapuas.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Tengah,First Instance
+MCR-PA-PA-0197,Pengadilan Agama Kasongan,https://pa-kasongan.go.id/id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Tengah,First Instance
+MCR-PA-PA-0162,Pengadilan Agama Baturaja,https://pa-baturaja.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,First Instance
+MCR-PA-PA-0181,Pengadilan Agama Tulang Bawang,https://pa-tulangbawang.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Lampung,First Instance
+MCR-PA-PA-0175,Pengadilan Agama Kalianda,https://pa-kalianda.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Lampung,First Instance
+MCR-PA-PA-0085,Pengadilan Agama Bangil,https://www.pa-bangil.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PA-0206,Pengadilan Agama Pelaihari,https://pa-pelaihari.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Selatan,First Instance
+MCR-PA-PA-0164,Pengadilan Agama Muara Enim,https://pa-muaraenim.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,First Instance
+MCR-PA-PA-0185,Pengadilan Agama Pontianak,https://pa-pontianak.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Barat,First Instance
+MCR-PA-PA-0209,Pengadilan Agama Kandangan,https://pa-kandangan.go.id/en/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Selatan,First Instance
+MCR-PA-PA-0179,Pengadilan Agama Tulang Bawang Tengah,https://pa-tulangbawangtengah.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Lampung,First Instance
+MCR-PA-PA-0143,Pengadilan Agama Bengkalis,https://pa-bengkalis.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Riau,First Instance
+MCR-PA-PA-0173,Pengadilan Agama Krui,https://pa-krui.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Lampung,First Instance
+MCR-PA-PA-0201,Pengadilan Agama Pangkalan Bun,https://pa-pangkalanbun.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Tengah,First Instance
+MCR-PA-PA-0139,Pengadilan Agama Pulau Punjung,https://pa-pulaupunjung.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-PA-0222,Pengadilan Agama Bolaang Uki,https://pa-bolaanguki.go.id/main/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Utara,First Instance
+MCR-PA-PA-0211,Pengadilan Agama Tanjung,https://pa-tanjung.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Selatan,First Instance
+MCR-PA-PA-0220,Pengadilan Agama Sendawar,https://pa-sendawar.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Timur,First Instance
+MCR-PA-PA-0230,Pengadilan Agama Buol,https://pa-buol.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Tengah,First Instance
+MCR-PA-PA-0226,Pengadilan Agama Poso,https://pa-poso.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Tengah,First Instance
+MCR-PA-PA-0191,Pengadilan Agama Singkawang,https://pa-singkawang.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Barat,First Instance
+MCR-PA-PA-0214,Pengadilan Agama Batu Licin,https://pa-batulicin.go.id/,REACHABLE,,,,,,4,28,2026-11-17,1,0,1,1,1,Peradilan Agama (PA),Kalimantan Selatan,First Instance
+MCR-PA-PA-0233,Pengadilan Agama Parigi,https://pa-parigi.go.id/,REACHABLE,,,,,,5,17,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Tengah,First Instance
+MCR-PA-PA-0241,Pengadilan Agama Watampone,https://pa-watampone.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0203,Pengadilan Agama Buntok,https://pa-buntok.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Tengah,First Instance
+MCR-PA-PA-0239,Pengadilan Agama Barru,https://pa-barru.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0238,Pengadilan Agama Takalar,https://pa-takalar.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0187,Pengadilan Agama Sanggau,https://pa-sanggau.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Barat,First Instance
+MCR-PA-PA-0243,Pengadilan Agama Watan Soppeng,https://pa-watansoppeng.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0244,Pengadilan Agama Bantaeng,https://pa-bantaeng.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0138,Pengadilan Agama Tanjung Pati,https://pa-tanjungpati.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Barat,First Instance
+MCR-PA-PA-0208,Pengadilan Agama Banjarmasin,https://pa-banjarmasin.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Selatan,First Instance
+MCR-PA-PA-0234,Pengadilan Agama Pangkajene,https://pa-pangkajene.go.id/,REACHABLE,,,,,,5,14,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0247,Pengadilan Agama Selayar,http://www.pa-selayar.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0221,Pengadilan Agama Bontang,https://pa-bontang.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Timur,First Instance
+MCR-PA-PA-0252,Pengadilan Agama Makale,https://pa-makale.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0250,Pengadilan Agama Enrekang,https://pa-enrekang.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0255,Pengadilan Agama Masamba,https://pa-masamba.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0258,Pengadilan Agama Tual,https://pa-tual.go.id/,REACHABLE,,,,,,5,37,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Maluku,First Instance
+MCR-PA-PA-0235,Pengadilan Agama Maros,https://pa-maros.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0227,Pengadilan Agama Luwuk,https://pa-luwuk.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Tengah,First Instance
+MCR-PA-PA-0189,Pengadilan Agama Putussibau,https://pa-putussibau.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Barat,First Instance
+MCR-PA-PA-0219,Pengadilan Agama Penajam,https://www.pa-penajam.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Agama (PA),Kalimantan Timur,First Instance
+MCR-PA-PA-0190,Pengadilan Agama Mempawah,https://pa-mempawah.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Barat,First Instance
+MCR-PA-PA-0242,Pengadilan Agama Sengkang,https://pa-sengkang.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0277,Pengadilan Agama Maumere,https://pa-maumere.go.id/,REACHABLE,,,,,,2,6,2026-11-17,0,1,1,0,0,Peradilan Agama (PA),Nusa Tenggara Timur,First Instance
+MCR-PA-PA-0254,Pengadilan Agama Malili,https://pa-malili.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Selatan,First Instance
+MCR-PA-PA-0263,Pengadilan Agama Singaraja,http://pa-singaraja.go.id/SGR/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bali,First Instance
+MCR-PA-PA-0259,Pengadilan Agama Dataran Hunipopu,https://pa-dataranhunipopu.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Maluku,First Instance
+MCR-PA-PA-0266,Pengadilan Agama Tabanan,https://pa-tabanan.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bali,First Instance
+MCR-PA-PA-0232,Pengadilan Agama Banggai,https://pa-banggai.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Agama (PA),Sulawesi Tengah,First Instance
+MCR-PA-PA-0283,Pengadilan Agama Argamakmur,https://pa-argamakmur.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bengkulu,First Instance
+MCR-PA-PA-0289,Pengadilan Agama Lebong,https://pa-lebong.go.id/,REACHABLE,,,,,,1,3,2026-11-17,0,0,1,0,0,Peradilan Agama (PA),Bengkulu,First Instance
+MCR-PA-PA-0180,Pengadilan Agama Sukadana,https://pa-sukadana.go.id/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Agama (PA),Lampung,First Instance
+MCR-PA-PA-0272,Pengadilan Agama Selong,https://pa-selong.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Nusa Tenggara Barat,First Instance
+MCR-PA-PA-0279,Pengadilan Agama Biak,https://pa-biak.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Papua,First Instance
+MCR-PA-PA-0257,Pengadilan Agama Ambon,https://pa-ambon.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Maluku,First Instance
+MCR-PA-PA-0192,Pengadilan Agama Nanga Pinoh,https://pa-nangapinoh.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Barat,First Instance
+MCR-PA-PA-0288,Pengadilan Agama Kepahiang,https://pa-kepahiang.go.id/,REACHABLE,,,,,,5,41,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bengkulu,First Instance
+MCR-PA-PA-0287,Pengadilan Agama Tais,https://pa-tais.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bengkulu,First Instance
+MCR-PA-PA-0261,Pengadilan Agama Namlea,https://pa-namlea.go.id/,REACHABLE,,,,,,5,38,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Maluku,First Instance
+MCR-PA-PA-0265,Pengadilan Agama Karangasem,https://pa-karangasem.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bali,First Instance
+MCR-PA-PA-0153,Pengadilan Agama Kuala Tungkal,https://pa-kualatungkal.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jambi,First Instance
+MCR-PA-PA-0264,Pengadilan Agama Bangli,https://pa-bangli.go.id/v1/en/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bali,First Instance
+MCR-PA-PA-0280,Pengadilan Agama Mimika,https://pa-mimika.go.id/pammk-web/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Papua,First Instance
+MCR-PA-PA-0300,Pengadilan Agama Dabo Singkep,https://www.pa-dabosingkep.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kepulauan Riau,First Instance
+MCR-PA-PA-0291,Pengadilan Agama Morotai,https://pa-morotai.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Maluku Utara,First Instance
+MCR-PA-PA-0268,Pengadilan Agama Gianyar,https://pa-gianyar.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bali,First Instance
+MCR-PA-PA-0292,Pengadilan Agama Soa Sio,https://pa-soasio.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Maluku Utara,First Instance
+MCR-PA-PA-0274,Pengadilan Agama Dompu,https://pa-dompu.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Nusa Tenggara Barat,First Instance
+MCR-PA-PA-0299,Pengadilan Agama Tanjung Pinang,https://pa-tanjungpinang.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kepulauan Riau,First Instance
+MCR-PA-PA-0267,Pengadilan Agama Klungkung,https://pa-klungkung.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bali,First Instance
+MCR-PA-PA-0282,Pengadilan Agama Curup,https://pa-curup.go.id/pacurupnew/,REACHABLE,,,,,,4,20,2026-11-17,1,0,1,1,1,Peradilan Agama (PA),Bengkulu,First Instance
+MCR-PA-PA-0314,Pengadilan Agama Tanjung Selor,https://pa-tanjungselor.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Utara,First Instance
+MCR-PA-PA-0307,Pengadilan Agama Fak Fak,https://pa-fakfak.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Papua Barat,First Instance
+MCR-PA-PA-0207,Pengadilan Agama Kotabaru,https://pa-kotabaru.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Selatan,First Instance
+MCR-PA-PA-0285,Pengadilan Agama Mukomuko,https://pa-mukomuko.go.id/en/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bengkulu,First Instance
+MCR-PA-PA-0298,Pengadilan Agama Cilegon,https://pa-cilegon.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Banten,First Instance
+MCR-PA-PA-0281,Pengadilan Agama Manna,https://pa-manna.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bengkulu,First Instance
+MCR-PA-PA-0326,Pengadilan Agama Bitung,https://pa-bitung.go.id/,REACHABLE,,,,,,1,2,2026-11-17,0,0,1,0,0,Peradilan Agama (PA),Sulawesi Utara,First Instance
+MCR-PA-PA-0304,Pengadilan Agama Natuna,https://pa-natuna.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kepulauan Riau,First Instance
+MCR-PA-PA-0215,Pengadilan Agama Tenggarong,https://www.pa-tenggarong.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Timur,First Instance
+MCR-PA-PA-0312,Pengadilan Agama Pasangkayu,https://pa-pasangkayu.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Barat,First Instance
+MCR-PA-PA-0302,Pengadilan Agama Tarempa,https://www.pa-tarempa.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kepulauan Riau,First Instance
+MCR-PA-PA-0328,Pengadilan Agama Lolak,https://pa-lolak.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Utara,First Instance
+MCR-PA-PA-0296,Pengadilan Agama Pandeglang,https://pa-pandeglang.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Banten,First Instance
+MCR-PA-PA-0321,Pengadilan Agama Pangkalpinang,https://pa-pangkalpinang.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kepulauan Bangka Belitung,First Instance
+MCR-PA-PA-0286,Pengadilan Agama Bintuhan,https://pa-bintuhan.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bengkulu,First Instance
+MCR-PA-PA-0309,Pengadilan Agama Polewali,https://site.pa-polewali.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Barat,First Instance
+MCR-PA-PA-0306,Pengadilan Agama Sorong,https://www.pa-sorong.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Papua Barat,First Instance
+MCR-PA-PA-0325,Pengadilan Agama Kotamobagu,https://pa-kotamobagu.go.id/,REACHABLE,,,,,,5,32,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Utara,First Instance
+MCR-PA-PA-0294,Pengadilan Agama Serang,https://pa-serang.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Banten,First Instance
+MCR-PA-PA-0333,Pengadilan Agama Ruteng,https://pa-ruteng.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Nusa Tenggara Timur,First Instance
+MCR-PA-PA-0305,Pengadilan Agama Kaimana,https://pa-kaimana.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Papua Barat,First Instance
+MCR-PA-PA-0323,Pengadilan Agama Tanjungpandan,https://pa-tanjungpandan.go.id/v2/index.php/en/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kepulauan Bangka Belitung,First Instance
+MCR-PA-PA-0297,Pengadilan Agama Tigaraksa,https://pa-tigaraksa.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Banten,First Instance
+MCR-PA-PA-0256,Pengadilan Agama Wangi Wangi,https://pa-wangiwangi.go.id/web/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Tenggara,First Instance
+MCR-PA-PA-0212,Pengadilan Agama Negara,https://pa-negara.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Selatan,First Instance
+MCR-PA-PA-0343,Pengadilan Agama Lasusua,https://pa-lasusua.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Tenggara,First Instance
+MCR-PA-PA-0330,Pengadilan Agama Kupang,https://www.pa-kupang.go.id/,REACHABLE,,,,,,2,6,2026-11-17,0,1,1,0,0,Peradilan Agama (PA),Nusa Tenggara Timur,First Instance
+MCR-PA-PA-0315,Pengadilan Agama Nunukan,https://pa-nunukan.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Utara,First Instance
+MCR-PU-PN-0398,Pengadilan Negeri Bangil,https://pn-bangil.go.id/,REACHABLE,,,,,,1,3,2026-11-17,0,0,1,0,0,Peradilan Umum (PU),Jawa Timur,First Instance
+MCR-PA-PA-0332,Pengadilan Agama Labuan Bajo,https://pa-labuanbajo.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Nusa Tenggara Timur,First Instance
+MCR-PA-PA-0160,Pengadilan Agama Palembang,https://pa-palembang.go.id/,REACHABLE,,,,,,5,6,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sumatera Selatan,First Instance
+MCR-PA-PA-0310,Pengadilan Agama Majene,https://pa-majene.go.id/,REACHABLE,,,,,,5,18,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Barat,First Instance
+MCR-PA-PA-0327,Pengadilan Agama Tondano,https://pa-tondano.go.id/,REACHABLE,,,,,,5,31,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Utara,First Instance
+MCR-PA-PA-0335,Pengadilan Agama Ende,https://pa-ende.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Nusa Tenggara Timur,First Instance
+MCR-PA-PA-0341,Pengadilan Agama Suwawa,https://pa-suwawa.go.id/,REACHABLE,,,,,,5,27,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Gorontalo,First Instance
+MCR-PA-PA-0339,Pengadilan Agama Tilamuta,https://pa-tilamuta.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Gorontalo,First Instance
+MCR-PA-PA-0334,Pengadilan Agama Bajawa,https://pa-bajawa.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0397,Pengadilan Negeri Salatiga,https://pn-salatiga.go.id/,REACHABLE,,,,,,5,38,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Jawa Tengah,First Instance
+MCR-PU-PN-0396,Pengadilan Negeri Blambangan Umpu,https://pn-blambanganumpu.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Lampung,First Instance
+MCR-PU-PN-0402,Pengadilan Negeri Rote Ndao,https://pn-rotendao.go.id/,REACHABLE,,,,,,4,13,2026-11-17,1,1,1,1,0,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PU-PN-0412,Pengadilan Negeri Andoolo,https://pn-andoolo.go.id/,REACHABLE,,,,,,4,9,2026-11-17,1,1,1,1,0,Peradilan Umum (PU),Sulawesi Tenggara,First Instance
+MCR-PU-PN-0401,Pengadilan Negeri Lembata,https://pn-lembata.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PA-PA-0342,Pengadilan Agama Kwandang,https://web.pa-kwandang.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Gorontalo,First Instance
+MCR-PA-PA-0337,Pengadilan Agama Gorontalo,https://pa-gorontalo.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Gorontalo,First Instance
+MCR-PU-PN-0406,Pengadilan Negeri Nanga Bulik,https://pn-nangabulik.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Tengah,First Instance
+MCR-PU-PN-0403,Pengadilan Negeri Oelamasi,https://pn-oelamasi.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PA-PA-0338,Pengadilan Agama Limboto,https://pa-limboto.go.id/,REACHABLE,,,,,,5,5,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Gorontalo,First Instance
+MCR-PA-PA-0313,Pengadilan Agama Tarakan,https://pa-tarakan.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Utara,First Instance
+MCR-PA-PA-0346,Pengadilan Agama Tulungagung,https://www.pa-tulungagung.go.id/en/,UNREACHABLE,0,0,0,0,0,0,0,2026-11-17,,,,,,Peradilan Agama (PA),Jawa Timur,First Instance
+MCR-PA-PA-0336,Pengadilan Agama Soe,https://pa-soe.go.id/,REACHABLE,,,,,,4,41,2026-11-17,1,0,1,1,1,Peradilan Agama (PA),Nusa Tenggara Timur,First Instance
+MCR-PA-PA-0345,Pengadilan Agama Semarang,https://pa-semarang.go.id/,REACHABLE,,,,,,5,28,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Jawa Tengah,First Instance
+MCR-PU-PN-0414,Pengadilan Negeri Wangi Wangi,https://pn-wangiwangi.go.id/,REACHABLE,,,,,,5,23,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Tenggara,First Instance
+MCR-PA-PA-0329,Pengadilan Agama Tutuyan,https://pa-tutuyan.go.id/main/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Utara,First Instance
+MCR-PA-PA-0324,Pengadilan Agama Manado,https://pa-manado.go.id/,REACHABLE,,,,,,5,25,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Utara,First Instance
+MCR-PA-PA-0260,Pengadilan Agama Dataran Hunimoa,https://pa-dataranhunimoa.go.id/,REACHABLE,,,,,,5,26,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Maluku,First Instance
+MCR-PA-PA-0308,Pengadilan Agama Manokwari,https://pa-manokwari.go.id/,REACHABLE,,,,,,5,21,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Papua Barat,First Instance
+MCR-PA-PA-0213,Pengadilan Agama Banjarbaru,https://pa-banjarbaru.go.id/,REACHABLE,,,,,,5,30,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kalimantan Selatan,First Instance
+MCR-PU-PN-0413,Pengadilan Negeri Lasusua,https://pn-lasusua.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Tenggara,First Instance
+MCR-PU-PN-0400,Pengadilan Negeri Larantuka,https://pn-larantuka.go.id/,REACHABLE,,,,,,5,29,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Nusa Tenggara Timur,First Instance
+MCR-PA-PA-0303,Pengadilan Agama Batam,https://pa-batam.go.id/,REACHABLE,,,,,,5,33,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Kepulauan Riau,First Instance
+MCR-PA-PA-0320,Pengadilan Agama Jakarta Utara,https://pa-jakartautara.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),DKI Jakarta,First Instance
+MCR-PU-PN-0405,Pengadilan Negeri Kasongan,https://pn-kasongan.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Kalimantan Tengah,First Instance
+MCR-PA-PA-0340,Pengadilan Agama Marisa,https://pa-marisa.go.id/,REACHABLE,,,,,,5,24,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Gorontalo,First Instance
+MCR-PU-PN-0410,Pengadilan Negeri Enrekang,https://pn-enrekang.go.id/,REACHABLE,,,,,,5,34,2026-11-17,1,1,1,1,1,Peradilan Umum (PU),Sulawesi Selatan,First Instance
+MCR-PA-PA-0331,Pengadilan Agama Waingapu,https://pa-waingapu.go.id/,REACHABLE,,,,,,5,20,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Nusa Tenggara Timur,First Instance
+MCR-PA-PA-0262,Pengadilan Agama Denpasar,https://pa-denpasar.go.id/,REACHABLE,,,,,,5,22,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Bali,First Instance
+MCR-PA-PA-0344,Pengadilan Agama Rumbia,https://pa-rumbia.go.id/,REACHABLE,,,,,,5,19,2026-11-17,1,1,1,1,1,Peradilan Agama (PA),Sulawesi Tenggara,First Instance
