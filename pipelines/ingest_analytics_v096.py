@@ -4,7 +4,7 @@ Sinkronisasi Hasil Analitik Kebijakan v0.9.6 -> Neo4j & Qdrant Lokal (Dell Preci
 Memperbarui:
   1. Neo4j (port 27687):
      - Memperkaya simpul :Court dengan properti risiko hambatan eksekusi (execution_risk_category,
-       execution_backlog_remaining, execution_uncompleted_gap_pct, adjudication_vs_execution_gap_pct).
+       perkusi_2026_sisa_akhir, execution_uncompleted_gap_pct, adjudication_vs_execution_gap_pct).
      - Membuat simpul :RegionalTransparencyEquity untuk setiap pasangan (province_code, judicial_environment).
   2. Qdrant (port 26333, koleksi ijc_mcr_v0_9_3):
      - Mengindeks vektor embedding (BAAI/bge-m3, CPU) untuk 382 temuan hambatan eksekusi PN
@@ -40,9 +40,9 @@ def main():
         s.run("""
         UNWIND $rows AS r
         MATCH (c:Court {court_id: r.court_id})
-        SET c.execution_workload_total = toInteger(r.execution_workload_total),
-            c.execution_completed_total = toInteger(r.execution_completed_total),
-            c.execution_backlog_remaining = toInteger(r.execution_backlog_remaining),
+        SET c.perkusi_2026_beban = toInteger(r.perkusi_2026_beban),
+            c.perkusi_2026_pelaksanaan = toInteger(r.perkusi_2026_pelaksanaan),
+            c.perkusi_2026_sisa_akhir = toInteger(r.perkusi_2026_sisa_akhir),
             c.execution_uncompleted_gap_pct = toFloat(r.execution_uncompleted_gap_pct),
             c.adjudication_vs_execution_gap_pct = CASE WHEN r.adjudication_vs_execution_gap_pct <> '' THEN toFloat(r.adjudication_vs_execution_gap_pct) ELSE null END,
             c.execution_risk_category = r.execution_risk_category,
@@ -87,9 +87,9 @@ def main():
         gap_adj = f" | Kesenjangan Minutasi vs Eksekusi: {r['adjudication_vs_execution_gap_pct']}%" if r["adjudication_vs_execution_gap_pct"] else ""
         doc = (
             f"[EXECUTION_BOTTLENECK_2026] {r['official_name_verified']} ({r['court_id']}) | "
-            f"Kategori Risiko: {r['execution_risk_category']} | Beban Eksekusi: {r['execution_workload_total']} perkara | "
-            f"Selesai: {r['execution_completed_total']} ({r['perkusi_2026_rasio_pct']}%) | "
-            f"Sisa Tunggakan: {r['execution_backlog_remaining']} perkara ({r['execution_uncompleted_gap_pct']}% belum selesai)"
+            f"Kategori Risiko: {r['execution_risk_category']} | Beban Eksekusi: {r['perkusi_2026_beban']} perkara | "
+            f"Selesai: {r['perkusi_2026_pelaksanaan']} ({r['perkusi_2026_rasio_pct']}%) | "
+            f"Sisa Tunggakan: {r['perkusi_2026_sisa_akhir']} perkara ({r['execution_uncompleted_gap_pct']}% belum selesai)"
             f"{gap_adj}"
         )
         texts.append(doc)
