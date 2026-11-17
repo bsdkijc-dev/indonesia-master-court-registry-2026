@@ -1,0 +1,32 @@
+services:
+  postgres-mcr:
+    image: postgres:16.8
+    container_name: dell-jpais-postgres
+    environment:
+      POSTGRES_USER: jpais
+      POSTGRES_PASSWORD: REMOVED_SEE_DOT_ENV
+      POSTGRES_DB: jpais_mcr_v093
+    ports:
+      - "25432:5432"
+    volumes:
+      - ./local_volumes/postgres:/var/lib/postgresql/data
+
+  qdrant-mcr:
+    image: qdrant/qdrant:v1.13.4
+    container_name: dell-jpais-qdrant
+    ports:
+      - "26333:6333"
+    volumes:
+      - ./local_volumes/qdrant:/qdrant/storage
+
+  neo4j-mcr:
+    image: neo4j:5.26.4-community
+    container_name: dell-jpais-neo4j
+    environment:
+      NEO4J_AUTH: REMOVED_SEE_DOT_ENV
+      NEO4J_PLUGINS: '["apoc"]'
+    ports:
+      - "27474:7474"
+      - "27687:7687"
+    volumes:
+      - ./local_volumes/neo4j:/data
