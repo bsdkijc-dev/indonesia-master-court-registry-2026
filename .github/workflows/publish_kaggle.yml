@@ -1,17 +1,14 @@
 name: Validate & Sync Indonesia Master Court Registry 2026 to Kaggle
 
 on:
-  push:
-    branches: ["main"]
-    paths:
-      - "data/**"
-      - "docs/**"
-      - "dataset-metadata.json"
+  # Publication is approval-controlled: run manually from the Actions tab.
+  # Add required reviewers to the "kaggle-publish" environment in repo Settings.
   workflow_dispatch:
 
 jobs:
   validate-and-sync-kaggle:
     runs-on: ubuntu-latest
+    environment: kaggle-publish
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
