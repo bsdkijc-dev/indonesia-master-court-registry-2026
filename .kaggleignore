@@ -2,3 +2,11 @@ local_volumes/
 __pycache__/
 *.pyc
 .git/
+
+# never ship to Kaggle
+.github/
+.env
+.env.*
+docker-compose*.yml
+pipelines/
+validation_report.md

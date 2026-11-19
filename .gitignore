@@ -2,3 +2,10 @@ local_volumes/
 __pycache__/
 *.pyc
 .DS_Store
+
+# secrets
+.env
+.env.*
+!.env.example
+kaggle.json
+validation_report.md
