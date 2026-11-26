@@ -1,4 +1,18 @@
-# Indonesia Master Court Registry 2026 (v0.9)
+<div align="center">
+
+<img src="assets/logo.png" alt="Indonesia Master Court Registry 2026 Logo" width="140">
+
+# Indonesia Master Court Registry 2026
+
+### Canonical relational registry and 2026 PERKUSI execution benchmark across all four Indonesian judicial environments.
+
+[![License](https://img.shields.io/badge/License-CC_BY_4.0_/_MIT-blue?style=flat)](LICENSE) ![Stack](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white) [![CI](https://github.com/bsdkijc-dev/indonesia-master-court-registry-2026/actions/workflows/validate.yml/badge.svg)](https://github.com/bsdkijc-dev/indonesia-master-court-registry-2026/actions/workflows/validate.yml)
+
+[Documentation](docs/) · [Repository](https://github.com/bsdkijc-dev/indonesia-master-court-registry-2026)
+
+</div>
+
+---
 
 **Project Owner:** Indonesian Judicial College (IJC) | **Lead:** Cecep Mustafa (`bsdkijc-dev`) | **Release Date:** 2026-11-17
 
@@ -26,3 +40,13 @@ Canonical relational registry and statistical benchmark of Indonesia's judicial 
 - `data/tables/` — 18 normalized relational tables (`general_courts.csv`, `religious_courts.csv`, `tun_courts.csv`, `military_courts.csv`, `court_hierarchy.csv`, `perkusi_execution_stats_2026.csv`, `satker_codes.csv`, `court_name_aliases.csv`, `source_register.csv`, `verification_log.csv`, etc.).
 - `pipelines/` — Turnkey scripts for GitHub, Kaggle, LAPTAH crawler (`crawl_pu_laptah.py`), Qdrant, and Neo4j sync.
 - `docs/` — Data quality & national court census reports.
+
+---
+
+<div align="center">
+
+**Indonesia Master Court Registry 2026**
+
+[github.com/bsdkijc-dev/indonesia-master-court-registry-2026](https://github.com/bsdkijc-dev/indonesia-master-court-registry-2026)
+
+</div>
